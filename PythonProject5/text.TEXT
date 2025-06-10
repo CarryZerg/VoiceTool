@@ -1,0 +1,65 @@
+def fill_texts(self):
+    """精确匹配版文本填充 - 严格按文件名对应"""
+    if not self.results:
+        messagebox.showwarning("警告", "请先生成文本")
+        return
+
+    excel_path = self.excel_entry.get()
+    if not excel_path or not os.path.exists(excel_path):
+        messagebox.showerror("错误", "请先选择有效的Excel文件")
+        return
+
+    name_col = self.name_col_var.get().upper()  # 确保列名大写
+    text_col = self.text_col_var.get().upper()
+    start_row = int(self.start_row_var.get())  # 确保为整数
+
+    try:
+        wb = openpyxl.load_workbook(excel_path)
+        sheet = self.get_worksheet(wb)
+
+        # 创建精确文件名映射（保留原始大小写）
+        result_map = {
+            os.path.basename(result['file']): result['text']  # 使用完整文件名
+            for result in self.results
+        }
+
+        matched_count = 0
+        missing_files = []
+        filled_rows = []
+
+        # 遍历Excel行（严格按物理行号）
+        for row_idx in range(start_row, sheet.max_row + 1):
+            excel_filename = str(sheet[f"{name_col}{row_idx}"].value or "").strip()
+            if not excel_filename:
+                continue
+
+            # 精确匹配（包括扩展名）
+            if excel_filename in result_map:
+                sheet[f"{text_col}{row_idx}"] = result_map[excel_filename]
+                matched_count += 1
+                filled_rows.append(row_idx)
+                result_map.pop(excel_filename)
+            else:
+                missing_files.append(excel_filename)
+
+        # 保存文件（带冲突处理）
+        try:
+            wb.save(excel_path)
+        except PermissionError:
+            backup_path = excel_path.replace(".xlsx", "_backup.xlsx")
+            wb.save(backup_path)
+            messagebox.showwarning("警告",
+                f"原文件被占用，已保存到:\n{backup_path}")
+
+        # 构建结果报告
+        result_msg = [
+            f"▸ 成功填充 {matched_count} 行",
+            f"▸ 填充位置: 行 {min(filled_rows)}-{max(filled_rows)}" if filled_rows else "",
+            f"▸ 未匹配文件: {len(missing_files)} 个" if missing_files else "",
+            f"▸ 未使用结果: {len(result_map)} 条" if result_map else ""
+        ]
+        messagebox.showinfo("完成", "\n".join(filter(None, result_msg)))
+
+    except Exception as e:
+        messagebox.showerror("错误", f"填充失败:\n{str(e)}")
+        self.log(f"填充错误 @ {excel_path}: {str(e)}", logging.ERROR)

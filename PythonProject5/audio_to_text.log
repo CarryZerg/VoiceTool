@@ -1,0 +1,2007 @@
+2025-06-01 19:32:16,357 - INFO - 语音识别引擎初始化成功
+2025-06-01 19:32:35,836 - INFO - 已选择文件: H:/JianyingPro/test/Voice_Hero_Barzel_Expedition.wav
+2025-06-01 19:32:40,212 - INFO - 🌐 选择的语言: 英语 -> 代码: en | 模型大小: small
+2025-06-01 19:32:41,375 - INFO - ✅ 语音引擎初始化成功 | 语言: en | 模型大小: small
+2025-06-01 19:32:41,392 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Expedition.wav
+2025-06-01 19:32:46,193 - INFO - ✅ 转录结果: i'll make this quick
+2025-06-01 19:32:46,198 - INFO - 📝 结果已保存到: H:/JianyingPro/test/Voice_Hero_Barzel_Expedition.txt
+2025-06-01 19:54:43,458 - INFO - 语音识别引擎初始化成功
+2025-06-03 09:48:46,564 - INFO - 语音识别引擎初始化成功
+2025-06-03 09:51:29,288 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-03 09:51:31,831 - INFO - 找到 19 个音频文件
+2025-06-03 09:51:40,053 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx
+2025-06-03 09:52:06,430 - INFO - ✅ 设置已确认 | 语言: en | 模型大小: large
+2025-06-03 09:52:59,151 - INFO - ❌ 模型设置失败: 'AudioToTextTool' object has no attribute 'update_status_bar'
+2025-06-03 09:55:26,903 - INFO - 语音识别引擎初始化成功
+2025-06-03 09:55:34,101 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-03 09:55:40,429 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx
+2025-06-03 09:55:41,703 - INFO - 找到 19 个音频文件
+2025-06-03 09:56:10,061 - INFO - ✅ 设置已确认 | 语言: en | 模型大小: large
+2025-06-03 09:56:53,838 - INFO - 🌐 选择的语言: 英语 -> 代码: en | 模型大小: large
+2025-06-03 09:57:16,768 - INFO - ✅ 语音引擎初始化成功 | 语言: en | 模型大小: large
+2025-06-03 09:57:16,770 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Assemble.wav
+2025-06-03 09:57:18,652 - INFO - ✅ 转录结果: a great adventure
+2025-06-03 09:57:18,669 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Assemble.txt
+2025-06-03 09:57:18,691 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Awake_01.wav
+2025-06-03 09:57:19,132 - INFO - ✅ 转录结果: fantastic
+2025-06-03 09:57:19,140 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Awake_01.txt
+2025-06-03 09:57:19,152 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_01.wav
+2025-06-03 09:57:19,538 - INFO - ✅ 转录结果: cover me
+2025-06-03 09:57:19,542 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Battle_01.txt
+2025-06-03 09:57:19,548 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_02.wav
+2025-06-03 09:57:20,025 - INFO - ✅ 转录结果: give it a try
+2025-06-03 09:57:20,039 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Battle_02.txt
+2025-06-03 09:57:20,047 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_03.wav
+2025-06-03 09:57:20,442 - INFO - ✅ 转录结果: aiming now
+2025-06-03 09:57:20,453 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Battle_03.txt
+2025-06-03 09:57:20,471 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Expedition.wav
+2025-06-03 09:57:20,987 - INFO - ✅ 转录结果: i'll make this quick
+2025-06-03 09:57:21,005 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Expedition.txt
+2025-06-03 09:57:21,012 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Fail_01.wav
+2025-06-03 09:57:21,458 - INFO - ✅ 转录结果: let's get outta here
+2025-06-03 09:57:21,473 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Fail_01.txt
+2025-06-03 09:57:21,484 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Level.wav
+2025-06-03 09:57:22,705 - INFO - ✅ 转录结果: do you think i'm real to some people i've never existed
+2025-06-03 09:57:22,722 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Level.txt
+2025-06-03 09:57:22,742 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_01.wav
+2025-06-03 09:57:23,122 - INFO - ✅ 转录结果: already there
+2025-06-03 09:57:23,131 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Move_01.txt
+2025-06-03 09:57:23,144 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_02.wav
+2025-06-03 09:57:23,617 - INFO - ✅ 转录结果: i'll be there soon
+2025-06-03 09:57:23,625 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Move_02.txt
+2025-06-03 09:57:23,638 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Overview_01.wav
+2025-06-03 09:57:24,568 - INFO - ✅ 转录结果: i'm highly trained each mark represents a successful operation
+2025-06-03 09:57:24,583 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Overview_01.txt
+2025-06-03 09:57:24,593 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Recruit.wav
+2025-06-03 09:57:25,183 - INFO - ✅ 转录结果: commander do you have any new orders
+2025-06-03 09:57:25,193 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Recruit.txt
+2025-06-03 09:57:25,211 - INFO - 🚀 开始处理: Voice_Hero_Barzel_SelectArmy.wav
+2025-06-03 09:57:25,543 - INFO - ✅ 转录结果: yes commander
+2025-06-03 09:57:25,557 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_SelectArmy.txt
+2025-06-03 09:57:25,562 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Skill_02.wav
+2025-06-03 09:57:26,171 - INFO - ✅ 转录结果: fully charged and ready for battle
+2025-06-03 09:57:26,180 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Skill_02.txt
+2025-06-03 09:57:26,205 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Story.wav
+2025-06-03 09:57:27,498 - INFO - ✅ 转录结果: i have erased many enemies from the face of the earth but i haven't forgotten about them
+2025-06-03 09:57:27,511 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Story.txt
+2025-06-03 09:57:27,531 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Win.wav
+2025-06-03 09:57:28,127 - INFO - ✅ 转录结果: no another than me
+2025-06-03 09:57:28,139 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_Hero_Barzel_Win.txt
+2025-06-03 09:57:28,152 - INFO - 🚀 开始处理: Voice_TL_Execute_T8_3.wav
+2025-06-03 09:57:29,144 - INFO - ✅ 转录结果: items in city hall
+2025-06-03 09:57:29,160 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_TL_Execute_T8_3.txt
+2025-06-03 09:57:29,175 - INFO - 🚀 开始处理: Voice_TL_Start_JingKe_9.wav
+2025-06-03 09:57:30,211 - INFO - ✅ 转录结果: facing felicia
+2025-06-03 09:57:30,224 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_TL_Start_JingKe_9.txt
+2025-06-03 09:57:30,241 - INFO - 🚀 开始处理: Voice_TL_TianYan_T8_12.wav
+2025-06-03 09:57:33,124 - INFO - ✅ 转录结果: shooting turbines here
+2025-06-03 09:57:33,134 - INFO - 📝 结果已保存到: H:/JianyingPro/test\Voice_TL_TianYan_T8_12.txt
+2025-06-03 09:57:33,148 - INFO - 处理完成! 成功处理 19/19 个文件
+2025-06-03 10:03:30,508 - INFO - 语音识别引擎初始化成功
+2025-06-03 10:08:25,837 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-03 10:08:27,093 - INFO - 找到 19 个音频文件
+2025-06-03 10:08:30,712 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx
+2025-06-03 10:08:59,705 - INFO - ✅ 设置已确认 | 语言: en | 模型大小: large
+2025-06-03 10:09:52,670 - INFO - 🌐 选择的语言: 英语 -> 代码: en | 模型大小: large
+2025-06-03 10:10:15,966 - INFO - ✅ 语音引擎初始化成功 | 语言: en | 模型大小: large
+2025-06-03 10:10:15,974 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Assemble.wav
+2025-06-03 10:10:17,610 - INFO - ✅ 转录结果: a great adventure
+2025-06-03 10:10:17,620 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Awake_01.wav
+2025-06-03 10:10:17,984 - INFO - ✅ 转录结果: fantastic
+2025-06-03 10:10:17,992 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_01.wav
+2025-06-03 10:10:18,332 - INFO - ✅ 转录结果: cover me
+2025-06-03 10:10:18,336 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_02.wav
+2025-06-03 10:10:18,737 - INFO - ✅ 转录结果: give it a try
+2025-06-03 10:10:18,739 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_03.wav
+2025-06-03 10:10:19,086 - INFO - ✅ 转录结果: aiming now
+2025-06-03 10:10:19,097 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Expedition.wav
+2025-06-03 10:10:19,572 - INFO - ✅ 转录结果: i'll make this quick
+2025-06-03 10:10:19,582 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Fail_01.wav
+2025-06-03 10:10:19,999 - INFO - ✅ 转录结果: let's get outta here
+2025-06-03 10:10:20,009 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Level.wav
+2025-06-03 10:10:21,149 - INFO - ✅ 转录结果: do you think i'm real to some people i've never existed
+2025-06-03 10:10:21,161 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_01.wav
+2025-06-03 10:10:21,522 - INFO - ✅ 转录结果: already there
+2025-06-03 10:10:21,533 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_02.wav
+2025-06-03 10:10:21,970 - INFO - ✅ 转录结果: i'll be there soon
+2025-06-03 10:10:21,980 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Overview_01.wav
+2025-06-03 10:10:22,833 - INFO - ✅ 转录结果: i'm highly trained each mark represents a successful operation
+2025-06-03 10:10:22,844 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Recruit.wav
+2025-06-03 10:10:23,438 - INFO - ✅ 转录结果: commander do you have any new orders
+2025-06-03 10:10:23,447 - INFO - 🚀 开始处理: Voice_Hero_Barzel_SelectArmy.wav
+2025-06-03 10:10:23,766 - INFO - ✅ 转录结果: yes commander
+2025-06-03 10:10:23,775 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Skill_02.wav
+2025-06-03 10:10:24,371 - INFO - ✅ 转录结果: fully charged and ready for battle
+2025-06-03 10:10:24,385 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Story.wav
+2025-06-03 10:10:25,648 - INFO - ✅ 转录结果: i have erased many enemies from the face of the earth but i haven't forgotten about them
+2025-06-03 10:10:25,658 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Win.wav
+2025-06-03 10:10:26,230 - INFO - ✅ 转录结果: no another than me
+2025-06-03 10:10:26,240 - INFO - 🚀 开始处理: Voice_TL_Execute_T8_3.wav
+2025-06-03 10:10:27,277 - INFO - ✅ 转录结果: items in city hall
+2025-06-03 10:10:27,288 - INFO - 🚀 开始处理: Voice_TL_Start_JingKe_9.wav
+2025-06-03 10:10:28,448 - INFO - ✅ 转录结果: facing felicia
+2025-06-03 10:10:28,452 - INFO - 🚀 开始处理: Voice_TL_TianYan_T8_12.wav
+2025-06-03 10:10:31,377 - INFO - ✅ 转录结果: shooting turbines here
+2025-06-03 10:10:31,394 - INFO - 处理完成! 成功处理 19/19 个文件
+2025-06-03 10:26:02,429 - INFO - 语音识别引擎初始化成功
+2025-06-03 10:28:47,262 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-03 10:28:49,541 - INFO - 找到 19 个音频文件
+2025-06-03 10:28:54,684 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx
+2025-06-03 10:29:20,813 - INFO - ✅ 设置已确认 | 语言: en | 模型大小: large
+2025-06-03 10:29:52,671 - INFO - 🌐 选择的语言: 英语 -> 代码: en | 模型大小: large
+2025-06-03 10:30:16,993 - INFO - ✅ 语音引擎初始化成功 | 语言: en | 模型大小: large
+2025-06-03 10:30:17,000 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Assemble.wav
+2025-06-03 10:30:18,545 - INFO - ✅ 转录结果: a great adventure
+2025-06-03 10:30:18,549 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Awake_01.wav
+2025-06-03 10:30:18,957 - INFO - ✅ 转录结果: fantastic
+2025-06-03 10:30:18,962 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_01.wav
+2025-06-03 10:30:19,294 - INFO - ✅ 转录结果: cover me
+2025-06-03 10:30:19,300 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_02.wav
+2025-06-03 10:30:19,702 - INFO - ✅ 转录结果: give it a try
+2025-06-03 10:30:19,710 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_03.wav
+2025-06-03 10:30:20,070 - INFO - ✅ 转录结果: aiming now
+2025-06-03 10:30:20,085 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Expedition.wav
+2025-06-03 10:30:20,554 - INFO - ✅ 转录结果: i'll make this quick
+2025-06-03 10:30:20,565 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Fail_01.wav
+2025-06-03 10:30:21,013 - INFO - ✅ 转录结果: let's get outta here
+2025-06-03 10:30:21,022 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Level.wav
+2025-06-03 10:30:22,210 - INFO - ✅ 转录结果: do you think i'm real to some people i've never existed
+2025-06-03 10:30:22,218 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_01.wav
+2025-06-03 10:30:22,557 - INFO - ✅ 转录结果: already there
+2025-06-03 10:30:22,566 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_02.wav
+2025-06-03 10:30:22,986 - INFO - ✅ 转录结果: i'll be there soon
+2025-06-03 10:30:22,995 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Overview_01.wav
+2025-06-03 10:30:23,870 - INFO - ✅ 转录结果: i'm highly trained each mark represents a successful operation
+2025-06-03 10:30:23,880 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Recruit.wav
+2025-06-03 10:30:24,589 - INFO - ✅ 转录结果: commander do you have any new orders
+2025-06-03 10:30:24,594 - INFO - 🚀 开始处理: Voice_Hero_Barzel_SelectArmy.wav
+2025-06-03 10:30:25,076 - INFO - ✅ 转录结果: yes commander
+2025-06-03 10:30:25,082 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Skill_02.wav
+2025-06-03 10:30:25,684 - INFO - ✅ 转录结果: fully charged and ready for battle
+2025-06-03 10:30:25,694 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Story.wav
+2025-06-03 10:30:27,001 - INFO - ✅ 转录结果: i have erased many enemies from the face of the earth but i haven't forgotten about them
+2025-06-03 10:30:27,012 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Win.wav
+2025-06-03 10:30:27,671 - INFO - ✅ 转录结果: no another than me
+2025-06-03 10:30:27,681 - INFO - 处理完成! 成功处理 16/16 个文件
+2025-06-03 10:31:01,507 - INFO - 文件名已填充到Excel: 从 A2 开始
+2025-06-03 10:31:05,380 - INFO - 识别文本已填充到Excel列 C，起始行 2
+2025-06-03 10:31:08,249 - INFO - 文本比对完成，发现 13 处差异
+2025-06-03 10:31:08,255 - INFO - 差异详情:
+2025-06-03 10:31:08,257 - INFO -   行 2: 相似度 0.29 < 0.8
+2025-06-03 10:31:08,261 - INFO -   行 3: 相似度 0.18 < 0.8
+2025-06-03 10:31:08,263 - INFO -   行 4: 相似度 0.11 < 0.8
+2025-06-03 10:31:08,269 - INFO -   行 5: 相似度 0.42 < 0.8
+2025-06-03 10:31:08,273 - INFO -   行 6: 相似度 0.13 < 0.8
+2025-06-03 10:31:08,275 - INFO -   行 7: 相似度 0.24 < 0.8
+2025-06-03 10:31:08,277 - INFO -   行 9: 相似度 0.16 < 0.8
+2025-06-03 10:31:08,279 - INFO -   行 11: 相似度 0.32 < 0.8
+2025-06-03 10:31:08,281 - INFO -   行 12: 相似度 0.30 < 0.8
+2025-06-03 10:31:08,283 - INFO -   行 13: 相似度 0.16 < 0.8
+2025-06-03 10:31:08,285 - INFO -   行 14: 相似度 0.18 < 0.8
+2025-06-03 10:31:08,287 - INFO -   行 16: 相似度 0.21 < 0.8
+2025-06-03 10:31:08,288 - INFO -   行 17: 相似度 0.26 < 0.8
+2025-06-03 10:32:47,974 - INFO - 识别文本已填充到Excel列 C，起始行 2
+2025-06-03 10:33:37,737 - INFO - 文本比对完成，发现 2 处差异
+2025-06-03 10:33:37,739 - INFO - 差异详情:
+2025-06-03 10:33:37,740 - INFO -   行 6: 相似度 0.17 < 0.8
+2025-06-03 10:33:37,742 - INFO -   行 11: 相似度 0.32 < 0.8
+2025-06-03 10:34:39,333 - INFO - 文本比对完成，发现 2 处差异
+2025-06-03 10:34:39,335 - INFO - 差异详情:
+2025-06-03 10:34:39,336 - INFO -   行 6: 相似度 0.17 < 0.8
+2025-06-03 10:34:39,338 - INFO -   行 11: 相似度 0.32 < 0.8
+2025-06-03 10:45:35,011 - INFO - 语音识别引擎初始化成功
+2025-06-03 10:46:41,875 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-03 10:46:53,498 - INFO - 预设已保存到: audio_to_text_presets.json
+2025-06-03 10:46:59,951 - INFO - 找到 19 个音频文件
+2025-06-03 10:47:46,285 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-03 10:47:46,288 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-03 10:48:22,232 - INFO - ✅ 设置已确认 | 语言: zh | 模型大小: large
+2025-06-03 10:49:49,039 - INFO - 🌐 选择的语言: 中文 -> 代码: zh | 模型大小: large
+2025-06-03 10:50:08,722 - INFO - ✅ 语音引擎初始化成功 | 语言: zh | 模型大小: large
+2025-06-03 10:50:08,724 - INFO - 🚀 开始处理: Voice_TL_Execute_T8_3.wav
+2025-06-03 10:50:10,216 - INFO - ✅ 转录结果: 我 的 名字 旗号
+2025-06-03 10:50:10,228 - INFO - 🚀 开始处理: Voice_TL_Start_JingKe_9.wav
+2025-06-03 10:50:10,610 - INFO - ✅ 转录结果: 飞行服 失效
+2025-06-03 10:50:10,617 - INFO - 🚀 开始处理: Voice_TL_TianYan_T8_12.wav
+2025-06-03 10:50:11,436 - INFO - ✅ 转录结果: 轻轻 一 跳 的 本事
+2025-06-03 10:50:11,447 - INFO - 处理完成! 成功处理 3/3 个文件
+2025-06-03 10:52:25,699 - INFO - 文件名已填充到Excel: 工作表 'CN' 从 A2 开始
+2025-06-03 10:52:27,485 - INFO - 识别文本已填充到Excel工作表 'CN' 列 C，起始行 2
+2025-06-03 11:22:21,362 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 11:22:21,363 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 11:22:21,363 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 11:22:21,363 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 11:22:21,364 - INFO - 已加载 1 个预设
+2025-06-03 11:23:04,722 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 11:23:04,723 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 11:23:04,723 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 11:23:04,723 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 11:23:04,724 - INFO - 已加载 1 个预设
+2025-06-03 11:28:20,431 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 11:28:20,432 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 11:28:20,432 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 11:28:20,432 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 11:28:20,432 - INFO - 已加载 1 个预设
+2025-06-03 11:28:39,273 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-03 11:29:16,130 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-03 11:29:17,188 - INFO - 找到 16 个音频文件
+2025-06-03 11:29:47,430 - INFO - 找到 0 个音频文件
+2025-06-03 11:29:53,567 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-03 11:29:56,571 - INFO - 找到 0 个音频文件
+2025-06-03 12:45:19,440 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 12:45:19,440 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 12:45:19,440 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 12:45:19,441 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 12:45:19,441 - INFO - 已加载 1 个预设
+2025-06-03 12:45:38,791 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-03 12:46:29,390 - INFO - 已选择文件夹: H:/JianyingPro/test/EN
+2025-06-03 12:46:31,287 - INFO - 找到 16 个音频文件
+2025-06-03 12:46:37,494 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-03 12:46:37,496 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-03 12:47:14,381 - INFO - ✅ 模型已加载: EN/vosk-model-en-us-0.22 | 语言: en
+2025-06-03 13:42:12,393 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 13:42:12,393 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 13:42:12,393 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 13:42:12,394 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 13:42:12,394 - INFO - 已加载 1 个预设
+2025-06-03 13:42:30,790 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 13:42:30,791 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 13:42:30,791 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 13:42:30,791 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 13:42:30,791 - INFO - 已加载 1 个预设
+2025-06-03 13:42:50,699 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-03 13:43:21,493 - INFO - 已选择文件夹: H:/JianyingPro/test/CN
+2025-06-03 13:43:22,270 - INFO - 找到 3 个音频文件
+2025-06-03 13:43:30,556 - INFO - 已选择文件夹: H:/JianyingPro/test/EN
+2025-06-03 13:43:31,661 - INFO - 找到 16 个音频文件
+2025-06-03 13:43:43,155 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-03 13:43:43,156 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-03 13:43:49,912 - INFO - ✅ 模型已加载: EN/vosk-model-en-us-0.22-lgraph | 语言: en
+2025-06-03 13:50:04,586 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 13:50:04,586 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 13:50:04,587 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 13:50:04,587 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 13:50:04,587 - INFO - 已加载 1 个预设
+2025-06-03 13:50:23,596 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-03 13:50:39,184 - INFO - 已选择文件夹: H:/JianyingPro/test/EN
+2025-06-03 13:50:39,615 - INFO - 找到 16 个音频文件
+2025-06-03 13:50:46,144 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-03 13:50:46,145 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-03 13:50:50,431 - INFO - ✅ 模型已加载: EN/vosk-model-en-us-0.22-lgraph | 语言: en
+2025-06-03 13:50:55,280 - INFO - 🌐 选择的模型: EN/vosk-model-en-us-0.22-lgraph | 语言: en
+2025-06-03 13:50:56,401 - INFO - ✅ 语音引擎初始化成功 | 模型: EN/vosk-model-en-us-0.22-lgraph | 语言: en
+2025-06-03 13:51:55,415 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 13:51:55,415 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 13:51:55,416 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 13:51:55,416 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 13:51:55,416 - INFO - 已加载 1 个预设
+2025-06-03 13:52:15,090 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-03 13:52:24,123 - INFO - 已选择文件夹: H:/JianyingPro/test/EN
+2025-06-03 13:52:24,546 - INFO - 找到 16 个音频文件
+2025-06-03 13:52:29,659 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-03 13:52:29,662 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-03 13:52:34,103 - INFO - ✅ 模型已加载: EN/vosk-model-en-us-0.22-lgraph | 语言: en
+2025-06-03 13:52:38,609 - INFO - 🌐 选择的模型: EN/vosk-model-en-us-0.22-lgraph | 语言: en
+2025-06-03 13:52:39,694 - INFO - ✅ 语音引擎初始化成功 | 模型: EN/vosk-model-en-us-0.22-lgraph | 语言: en
+2025-06-03 13:52:39,695 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Assemble.wav
+2025-06-03 13:52:45,178 - INFO - ✅ 转录结果: oh great adventure
+2025-06-03 13:52:45,189 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Awake_01.wav
+2025-06-03 13:52:48,906 - INFO - ✅ 转录结果: fantastic
+2025-06-03 13:52:48,914 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_01.wav
+2025-06-03 13:52:52,338 - INFO - ✅ 转录结果: cover me
+2025-06-03 13:52:52,350 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_02.wav
+2025-06-03 13:52:55,388 - INFO - ✅ 转录结果: give it a try
+2025-06-03 13:52:55,402 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_03.wav
+2025-06-03 13:52:57,910 - INFO - ✅ 转录结果: aiming now
+2025-06-03 13:52:57,928 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Expedition.wav
+2025-06-03 13:53:01,808 - INFO - ✅ 转录结果: i'll make this quick
+2025-06-03 13:53:01,821 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Fail_01.wav
+2025-06-03 13:53:05,154 - INFO - ✅ 转录结果: let's get outta here
+2025-06-03 13:53:05,162 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Level.wav
+2025-06-03 13:53:10,011 - INFO - ✅ 转录结果: do you think i'm real to some people i've never existed
+2025-06-03 13:53:10,030 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_01.wav
+2025-06-03 13:53:13,188 - INFO - ✅ 转录结果: already there
+2025-06-03 13:53:13,204 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_02.wav
+2025-06-03 13:53:17,311 - INFO - ✅ 转录结果: i'll be there soon
+2025-06-03 13:53:17,324 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Overview_01.wav
+2025-06-03 13:53:22,023 - INFO - ✅ 转录结果: i'm highly trained each mark represents a successful operation
+2025-06-03 13:53:22,031 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Recruit.wav
+2025-06-03 13:53:25,546 - INFO - ✅ 转录结果: commander do you have any new orders
+2025-06-03 13:53:25,558 - INFO - 🚀 开始处理: Voice_Hero_Barzel_SelectArmy.wav
+2025-06-03 13:53:27,775 - INFO - ✅ 转录结果: yes commander
+2025-06-03 13:53:27,785 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Skill_02.wav
+2025-06-03 13:53:32,060 - INFO - ✅ 转录结果: fully charged and ready for battle
+2025-06-03 13:53:32,075 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Story.wav
+2025-06-03 13:53:37,339 - INFO - ✅ 转录结果: i've erased many enemies from the face of the earth but i haven't forgotten about them
+2025-06-03 13:53:37,354 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Win.wav
+2025-06-03 13:53:40,811 - INFO - ✅ 转录结果: no another than me
+2025-06-03 13:53:40,817 - INFO - 处理完成! 成功处理 16/16 个文件
+2025-06-03 14:08:44,130 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 14:08:44,130 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 14:08:44,130 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 14:08:44,130 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 14:08:44,131 - INFO - 已加载 1 个预设
+2025-06-03 14:09:57,991 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 14:09:57,991 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 14:09:57,991 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 14:09:57,991 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 14:09:57,992 - INFO - 已加载 1 个预设
+2025-06-03 14:12:22,817 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-03 14:12:22,817 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-03 14:12:22,818 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-03 14:12:22,818 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-03 14:12:22,818 - INFO - 已加载 1 个预设
+2025-06-03 14:12:41,685 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-03 14:13:37,664 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-03 14:13:38,291 - INFO - 找到 19 个音频文件（包含子文件夹）
+2025-06-03 14:13:53,373 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-03 14:13:53,375 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-03 14:14:21,231 - INFO - ✅ 模型已加载: EN/vosk-model-en-us-0.22 | 语言: en
+2025-06-03 14:14:37,206 - INFO - 🌐 选择的模型: EN/vosk-model-en-us-0.22 | 语言: en
+2025-06-03 14:14:59,682 - INFO - ✅ 语音引擎初始化成功 | 模型: EN/vosk-model-en-us-0.22 | 语言: en
+2025-06-03 14:14:59,684 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Assemble.wav
+2025-06-03 14:15:01,174 - INFO - ✅ 转录结果: a great adventure
+2025-06-03 14:15:01,181 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Awake_01.wav
+2025-06-03 14:15:01,507 - INFO - ✅ 转录结果: fantastic
+2025-06-03 14:15:01,514 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_01.wav
+2025-06-03 14:15:01,806 - INFO - ✅ 转录结果: cover me
+2025-06-03 14:15:01,817 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_02.wav
+2025-06-03 14:15:02,226 - INFO - ✅ 转录结果: give it a try
+2025-06-03 14:15:02,240 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Battle_03.wav
+2025-06-03 14:15:02,574 - INFO - ✅ 转录结果: aiming now
+2025-06-03 14:15:02,581 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Expedition.wav
+2025-06-03 14:15:03,046 - INFO - ✅ 转录结果: i'll make this quick
+2025-06-03 14:15:03,063 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Fail_01.wav
+2025-06-03 14:15:03,471 - INFO - ✅ 转录结果: let's get outta here
+2025-06-03 14:15:03,484 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Level.wav
+2025-06-03 14:15:04,590 - INFO - ✅ 转录结果: do you think i'm real to some people i've never existed
+2025-06-03 14:15:04,607 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_01.wav
+2025-06-03 14:15:04,926 - INFO - ✅ 转录结果: already there
+2025-06-03 14:15:04,941 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Move_02.wav
+2025-06-03 14:15:05,347 - INFO - ✅ 转录结果: i'll be there soon
+2025-06-03 14:15:05,362 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Overview_01.wav
+2025-06-03 14:15:06,196 - INFO - ✅ 转录结果: i'm highly trained each mark represents a successful operation
+2025-06-03 14:15:06,214 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Recruit.wav
+2025-06-03 14:15:06,747 - INFO - ✅ 转录结果: commander do you have any new orders
+2025-06-03 14:15:06,762 - INFO - 🚀 开始处理: Voice_Hero_Barzel_SelectArmy.wav
+2025-06-03 14:15:07,062 - INFO - ✅ 转录结果: yes commander
+2025-06-03 14:15:07,072 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Skill_02.wav
+2025-06-03 14:15:07,639 - INFO - ✅ 转录结果: fully charged and ready for battle
+2025-06-03 14:15:07,654 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Story.wav
+2025-06-03 14:15:08,924 - INFO - ✅ 转录结果: i have erased many enemies from the face of the earth but i haven't forgotten about them
+2025-06-03 14:15:08,951 - INFO - 🚀 开始处理: Voice_Hero_Barzel_Win.wav
+2025-06-03 14:15:09,599 - INFO - ✅ 转录结果: no another than me
+2025-06-03 14:15:09,611 - INFO - 处理完成! 成功处理 16/16 个文件
+2025-06-03 14:15:34,377 - INFO - 文件名已填充到Excel: 工作表 'EN' 从 A2 开始
+2025-06-03 14:15:36,503 - INFO - 识别文本已填充到Excel工作表 'EN' 列 C，起始行 2
+2025-06-03 14:15:37,912 - INFO - 工作表 'EN' 文本比对完成，发现 2 处差异
+2025-06-03 14:15:37,915 - INFO - 差异详情:
+2025-06-03 14:15:37,922 - INFO -   行 6: 相似度 0.17 < 0.8
+2025-06-03 14:15:37,927 - INFO -   行 11: 相似度 0.32 < 0.8
+2025-06-03 14:56:21,642 - INFO - ✅ 模型已加载: CN/vosk-model-cn-0.22 | 语言: zh
+2025-06-03 14:56:31,176 - INFO - 🌐 选择的模型: CN/vosk-model-cn-0.22 | 语言: zh
+2025-06-03 14:56:51,807 - INFO - ✅ 语音引擎初始化成功 | 模型: CN/vosk-model-cn-0.22 | 语言: zh
+2025-06-03 14:56:51,813 - INFO - 🚀 开始处理: Voice_TL_Execute_T8_3.wav
+2025-06-03 14:56:53,572 - INFO - ✅ 转录结果: 我 的 名字 旗号
+2025-06-03 14:56:53,581 - INFO - 🚀 开始处理: Voice_TL_Start_JingKe_9.wav
+2025-06-03 14:56:53,993 - INFO - ✅ 转录结果: 飞行服 失效
+2025-06-03 14:56:54,003 - INFO - 🚀 开始处理: Voice_TL_TianYan_T8_12.wav
+2025-06-03 14:56:54,884 - INFO - ✅ 转录结果: 轻轻 一 跳 的 本事
+2025-06-03 14:56:54,896 - INFO - 处理完成! 成功处理 3/3 个文件
+2025-06-03 14:57:04,519 - INFO - ✅ 模型已加载: CN/vosk-model-small-cn-0.22 | 语言: zh
+2025-06-03 14:57:12,008 - INFO - 🌐 选择的模型: CN/vosk-model-small-cn-0.22 | 语言: zh
+2025-06-03 14:57:12,377 - INFO - ✅ 语音引擎初始化成功 | 模型: CN/vosk-model-small-cn-0.22 | 语言: zh
+2025-06-03 14:57:12,380 - INFO - 🚀 开始处理: Voice_TL_Execute_T8_3.wav
+2025-06-03 14:57:14,131 - INFO - ✅ 转录结果: 此 桥
+2025-06-03 14:57:14,144 - INFO - 🚀 开始处理: Voice_TL_Start_JingKe_9.wav
+2025-06-03 14:57:15,213 - INFO - ✅ 转录结果: 三 媳妇 失效
+2025-06-03 14:57:15,233 - INFO - 🚀 开始处理: Voice_TL_TianYan_T8_12.wav
+2025-06-03 14:57:16,757 - INFO - ✅ 转录结果: 清晨 一条儿 是
+2025-06-03 14:57:16,771 - INFO - 处理完成! 成功处理 3/3 个文件
+2025-06-03 14:57:42,366 - INFO - ✅ 模型已加载: CN/vosk-model-cn-0.22 | 语言: zh
+2025-06-03 15:51:00,699 - INFO - 报告已导出到: H:/JianyingPro/语音识别报告.xlsx
+2025-06-05 09:45:08,800 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> zh
+2025-06-05 09:45:08,801 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> zh
+2025-06-05 09:45:08,801 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> en
+2025-06-05 09:45:08,802 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> en
+2025-06-05 09:45:08,803 - INFO - 已加载 1 个预设
+2025-06-05 09:45:28,678 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-05 16:12:39,331 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:12:39,331 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:12:39,332 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:12:39,332 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:12:39,332 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:12:39,333 - INFO - 已加载 1 个预设
+2025-06-05 16:25:05,460 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:25:05,460 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:25:05,461 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:25:05,461 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:25:05,461 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:25:05,461 - INFO - 已加载 1 个预设
+2025-06-05 16:26:50,036 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:26:50,036 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:26:50,037 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:26:50,037 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:26:50,037 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:26:50,037 - INFO - 已加载 1 个预设
+2025-06-05 16:27:12,774 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:27:12,774 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:27:12,775 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:27:12,775 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:27:12,775 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:27:12,775 - INFO - 已加载 1 个预设
+2025-06-05 16:27:26,506 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:27:26,507 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:27:26,507 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:27:26,507 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:27:26,507 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:27:26,508 - INFO - 已加载 1 个预设
+2025-06-05 16:28:25,738 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:28:25,738 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:28:25,738 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:28:25,738 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:28:25,738 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:28:25,739 - INFO - 已加载 1 个预设
+2025-06-05 16:31:39,390 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:31:39,391 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:31:39,391 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:31:39,391 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:31:39,391 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:31:39,392 - INFO - 已加载 1 个预设
+2025-06-05 16:39:38,474 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:39:38,474 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:39:38,474 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:39:38,474 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:39:38,475 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:39:38,475 - INFO - 已加载 1 个预设
+2025-06-05 16:44:27,475 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:44:27,475 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:44:27,475 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:44:27,476 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:44:27,476 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:44:27,476 - INFO - 已加载 1 个预设
+2025-06-05 16:51:37,723 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:51:37,724 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:51:37,724 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:51:37,724 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:51:37,724 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:51:37,725 - INFO - 已加载 1 个预设
+2025-06-05 16:51:54,942 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:51:54,943 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:51:54,943 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:51:54,943 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:51:54,943 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:51:54,944 - INFO - 已加载 1 个预设
+2025-06-05 16:59:03,160 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:59:03,160 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 16:59:03,160 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 16:59:03,160 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 16:59:03,160 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 16:59:03,161 - INFO - 已加载 1 个预设
+2025-06-05 17:09:36,909 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 17:09:36,909 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 17:09:36,909 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 17:09:36,909 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 17:09:36,910 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 17:09:36,910 - INFO - 已加载 1 个预设
+2025-06-05 17:11:24,434 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 17:11:24,434 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 17:11:24,434 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 17:11:24,435 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 17:11:24,435 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 17:11:24,435 - INFO - 已加载 1 个预设
+2025-06-05 17:17:09,687 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 17:17:09,687 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 17:17:09,687 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 17:17:09,687 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 17:17:09,687 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 17:17:09,688 - INFO - 已加载 1 个预设
+2025-06-05 17:17:27,996 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-05 17:17:44,341 - INFO - ✅ 模型已加载: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 17:17:52,874 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-05 17:17:53,318 - INFO - 找到 19 个音频文件（包含子文件夹）
+2025-06-05 17:18:00,368 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-05 17:18:00,370 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-05 17:18:05,788 - INFO - 🌐 选择的模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 17:18:16,262 - INFO - ✅ 语音引擎初始化成功 | 模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 17:18:29,034 - INFO - 🌐 选择的模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 17:18:38,341 - INFO - ✅ 语音引擎初始化成功 | 模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 17:23:35,535 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 17:23:35,535 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 17:23:35,535 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 17:23:35,535 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 17:23:35,536 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 17:23:35,536 - INFO - 已加载 1 个预设
+2025-06-05 17:23:54,386 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-05 17:24:09,286 - INFO - ✅ 模型已加载: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 17:24:14,518 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-05 17:24:15,109 - INFO - 找到 19 个音频文件（包含子文件夹）
+2025-06-05 17:24:20,587 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-05 17:24:20,589 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-05 17:24:26,811 - INFO - 🌐 选择的模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 17:24:37,079 - INFO - ✅ 语音引擎初始化成功 | 模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 17:24:37,080 - INFO - 🚀 开始处理: Voice_TL_Execute_T8_3.wav
+2025-06-05 17:24:54,346 - INFO - ✅ 转录结果: 我的名字叫……
+2025-06-05 17:24:54,359 - INFO - 🚀 开始处理: Voice_TL_Start_JingKe_9.wav
+2025-06-05 17:25:11,090 - INFO - ✅ 转录结果: 飞行服事项
+2025-06-05 17:25:11,098 - INFO - 🚀 开始处理: Voice_TL_TianYan_T8_12.wav
+2025-06-05 17:25:27,513 - INFO - ✅ 转录结果: 就这点本事
+2025-06-05 17:25:27,526 - INFO - 处理完成! 成功处理 3/3 个文件
+2025-06-05 17:32:01,285 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-05 17:32:02,029 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-05 18:43:14,418 - INFO - 🌐 选择的模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 18:43:20,341 - INFO - ❌ 模型加载失败: 语音模型未找到: models\WHISPER\large-v3.pt
+2025-06-05 18:43:26,394 - INFO - ❌ 模型加载失败: 语音模型未找到: models\WHISPER\large-v3.pt
+2025-06-05 18:43:37,868 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 18:43:37,869 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 18:43:37,869 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 18:43:37,871 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 18:43:37,872 - INFO - 已加载 1 个预设
+2025-06-05 18:43:56,520 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-05 18:44:03,875 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-05 18:48:05,439 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 18:48:05,439 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-05 18:48:05,440 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-05 18:48:05,440 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-05 18:48:05,440 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-05 18:48:05,440 - INFO - 已加载 1 个预设
+2025-06-05 18:48:24,739 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-05 18:49:25,885 - INFO - ✅ 模型已加载: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 18:49:31,799 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-05 18:49:32,231 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-05 18:49:37,975 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-05 18:49:37,977 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-05 18:49:43,617 - INFO - 🌐 选择的模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 18:49:54,255 - INFO - ✅ 语音引擎初始化成功 | 模型: WHISPER/large-v3.pt | 引擎: whisper | 语言: multilingual
+2025-06-05 18:49:54,257 - INFO - 🚀 开始处理: Voice_TL_Execute_T8_3.wav
+2025-06-05 18:50:11,294 - INFO - ✅ 转录结果: 我的名字叫……
+2025-06-05 18:50:11,298 - INFO - 🚀 开始处理: Voice_TL_Start_JingKe_9.wav
+2025-06-05 18:50:28,425 - INFO - ✅ 转录结果: 飞行服事项
+2025-06-05 18:50:28,449 - INFO - 🚀 开始处理: Voice_TL_TianYan_T8_12.wav
+2025-06-05 18:50:45,297 - INFO - ✅ 转录结果: 就这点本事
+2025-06-05 18:50:45,313 - INFO - 处理完成! 成功处理 3/3 个文件
+2025-06-06 10:21:21,313 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-06 10:21:21,313 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-06 10:21:21,314 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-06 10:21:21,314 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-06 10:21:21,314 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-06 10:21:21,315 - INFO - 已加载 1 个预设
+2025-06-06 10:21:39,933 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-06 11:48:18,638 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-06 11:48:18,638 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-06 11:48:18,638 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-06 11:48:18,639 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-06 11:48:18,639 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-06 11:48:18,640 - INFO - 已加载 1 个预设
+2025-06-06 11:50:37,172 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-06 11:50:37,172 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-06 11:50:37,172 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-06 11:50:37,172 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-06 11:50:37,173 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-06 11:50:37,173 - INFO - 已加载 1 个预设
+2025-06-06 11:52:00,720 - INFO - 找到模型: CN/vosk-model-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-06 11:52:00,720 - INFO - 找到模型: CN/vosk-model-small-cn-0.22 -> 引擎: vosk | 语言: zh
+2025-06-06 11:52:00,720 - INFO - 找到模型: EN/vosk-model-en-us-0.22 -> 引擎: vosk | 语言: en
+2025-06-06 11:52:00,721 - INFO - 找到模型: EN/vosk-model-en-us-0.22-lgraph -> 引擎: vosk | 语言: en
+2025-06-06 11:52:00,721 - INFO - 找到模型: WHISPER/large-v3.pt -> 引擎: whisper | 语言: multilingual
+2025-06-06 11:52:00,721 - INFO - 已加载 1 个预设
+2025-06-06 12:03:06,561 - INFO - 已加载 1 个预设
+2025-06-06 12:12:22,992 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-06 12:12:22,992 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-06 12:12:22,992 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-06 12:12:22,993 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-06 12:12:22,993 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-06 12:12:22,993 - INFO - ✅ 加载TENCENT配置: Tencent/config
+2025-06-06 12:12:22,994 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-06 12:12:22,994 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-06 12:12:22,994 - INFO - 已加载 1 个预设
+2025-06-06 14:02:47,323 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-06 14:02:47,323 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-06 14:02:47,324 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-06 14:02:47,324 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-06 14:02:47,324 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-06 14:02:47,325 - INFO - ✅ 加载TENCENT配置: Tencent/config
+2025-06-06 14:02:47,326 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-06 14:02:47,326 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-06 14:02:47,326 - INFO - 已加载 1 个预设
+2025-06-06 14:02:47,392 - INFO - 正在初始化 vosk 引擎...
+2025-06-06 14:03:07,727 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-06 14:03:07,727 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-06 14:06:06,686 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-06 14:06:08,318 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-06 14:06:13,536 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-06 14:06:13,538 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-06 14:06:18,742 - INFO - ✅ 模型加载成功: Tencent/config
+2025-06-06 14:06:47,987 - INFO - 🌐 选择的模型: Tencent/config | 引擎: tencent | 语言: zh
+2025-06-06 14:06:48,135 - INFO - ✅ 引擎初始化成功 | 类型: tencent
+2025-06-06 14:06:48,139 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_Execute_T8_3.wav
+2025-06-06 14:06:49,697 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 14:06:49,698 - WARNING - ⚠️ [1/3] Voice_TL_Execute_T8_3.wav 无转录结果
+2025-06-06 14:06:49,710 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_Start_JingKe_9.wav
+2025-06-06 14:06:50,694 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 14:06:50,694 - WARNING - ⚠️ [2/3] Voice_TL_Start_JingKe_9.wav 无转录结果
+2025-06-06 14:06:50,700 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_TianYan_T8_12.wav
+2025-06-06 14:06:52,183 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 14:06:52,183 - INFO - ✅ [3/3] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-06 14:09:42,622 - INFO - 🌐 选择的模型: Tencent/config | 引擎: tencent | 语言: zh
+2025-06-06 14:09:42,624 - INFO - ✅ 引擎初始化成功 | 类型: tencent
+2025-06-06 14:09:42,626 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_01.wav
+2025-06-06 14:09:45,149 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 14:09:45,149 - INFO - ✅ [1/3] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-06 14:09:45,171 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_02.wav
+2025-06-06 14:09:46,929 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 14:09:46,929 - INFO - ✅ [2/3] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-06 14:09:46,939 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_03.wav
+2025-06-06 14:09:47,988 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 14:09:47,988 - WARNING - ⚠️ [3/3] VO_Battle_BossZH1_BaiLingYan_03.wav 无转录结果
+2025-06-06 14:09:54,382 - INFO - 识别文本已填充到Excel工作表 'CN' 列 B，起始行 2
+2025-06-06 14:27:36,043 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-06 14:27:36,043 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-06 14:27:36,044 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-06 14:27:36,044 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-06 14:27:36,044 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-06 14:27:36,045 - ERROR - ❌ 加载配置失败 config.json: Extra data: line 1 column 14 (char 13)
+2025-06-06 14:27:36,045 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-06 14:27:36,045 - INFO - 模型扫描完成，共找到 6 个可用模型
+2025-06-06 14:27:36,045 - INFO - 已加载 1 个预设
+2025-06-06 14:27:36,202 - INFO - 正在初始化 vosk 引擎...
+2025-06-06 14:27:56,839 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-06 14:27:56,839 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-06 14:49:55,920 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-06 14:49:55,920 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-06 14:49:55,921 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-06 14:49:55,921 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-06 14:49:55,921 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-06 14:49:55,922 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-06 14:49:55,922 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-06 14:49:55,922 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-06 14:49:55,922 - INFO - 已加载 1 个预设
+2025-06-06 14:49:55,989 - INFO - 正在初始化 vosk 引擎...
+2025-06-06 14:50:17,733 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-06 14:50:17,733 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-06 14:50:33,113 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-06 14:50:39,856 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-06 14:50:40,956 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-06 14:50:49,848 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-06 14:50:49,849 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-06 14:51:01,191 - INFO - 🌐 选择的模型: Tencent/tencent_config | 引擎: tencent | 语言: zh
+2025-06-06 14:51:01,343 - INFO - ✅ 引擎初始化成功 | 类型: tencent
+2025-06-06 14:51:01,346 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_Execute_T8_3.wav
+2025-06-06 14:51:02,904 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 14:51:02,904 - WARNING - ⚠️ [1/6] Voice_TL_Execute_T8_3.wav 无转录结果
+2025-06-06 14:51:02,912 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_Start_JingKe_9.wav
+2025-06-06 14:51:03,912 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 14:51:03,912 - WARNING - ⚠️ [2/6] Voice_TL_Start_JingKe_9.wav 无转录结果
+2025-06-06 14:51:03,917 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_TianYan_T8_12.wav
+2025-06-06 14:51:05,384 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 14:51:05,385 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-06 14:51:05,390 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_01.wav
+2025-06-06 14:51:07,822 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 14:51:07,823 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-06 14:51:07,835 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_02.wav
+2025-06-06 14:51:09,483 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 14:51:09,484 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-06 14:51:09,497 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_03.wav
+2025-06-06 14:51:10,465 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 14:51:10,465 - WARNING - ⚠️ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 无转录结果
+2025-06-06 14:51:14,713 - INFO - 识别文本已填充到Excel工作表 'CN' 列 C，起始行 2
+2025-06-06 15:17:22,168 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-06 15:17:22,168 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-06 15:17:22,169 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-06 15:17:22,169 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-06 15:17:22,170 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-06 15:17:22,170 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-06 15:17:22,170 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-06 15:17:22,171 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-06 15:17:22,171 - INFO - 已加载 1 个预设
+2025-06-06 15:17:22,326 - INFO - 正在初始化 vosk 引擎...
+2025-06-06 15:17:41,936 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-06 15:17:41,936 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-06 15:17:56,302 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-06 15:18:05,191 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-06 15:18:05,700 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-06 15:18:10,773 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-06 15:18:10,775 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-06 15:18:20,228 - INFO - 🌐 选择的模型: Tencent/tencent_config | 引擎: tencent | 语言: zh
+2025-06-06 15:18:20,377 - INFO - ⚠️ 注意: 使用腾讯云服务，将自动转换音频格式为兼容格式
+2025-06-06 15:18:20,385 - INFO - ✅ 引擎初始化成功 | 类型: tencent
+2025-06-06 15:18:20,387 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_Execute_T8_3.wav
+2025-06-06 15:18:21,923 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 15:18:21,924 - WARNING - ⚠️ [1/6] Voice_TL_Execute_T8_3.wav 无转录结果
+2025-06-06 15:18:21,934 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_Start_JingKe_9.wav
+2025-06-06 15:18:22,912 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 15:18:22,912 - WARNING - ⚠️ [2/6] Voice_TL_Start_JingKe_9.wav 无转录结果
+2025-06-06 15:18:22,923 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: Voice_TL_TianYan_T8_12.wav
+2025-06-06 15:18:24,401 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 15:18:24,401 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-06 15:18:24,410 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_01.wav
+2025-06-06 15:18:26,816 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 15:18:26,816 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-06 15:18:26,828 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_02.wav
+2025-06-06 15:18:28,478 - INFO - 📝 转录完成 | 字符数: 1
+2025-06-06 15:18:28,478 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-06 15:18:28,486 - INFO - 🚀 开始转录 | 引擎: vosk | 文件: VO_Battle_BossZH1_BaiLingYan_03.wav
+2025-06-06 15:18:29,473 - INFO - 📝 转录完成 | 字符数: 0
+2025-06-06 15:18:29,473 - WARNING - ⚠️ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 无转录结果
+2025-06-06 15:18:35,826 - ERROR - 填充文本失败: [Errno 13] Permission denied: 'H:/JianyingPro/TESTSTT.xlsx'
+2025-06-06 15:18:39,353 - INFO - 识别文本已填充到Excel工作表 'CN' 列 C，起始行 2
+2025-06-06 15:43:55,688 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-06 15:43:55,689 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-06 15:43:55,689 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-06 15:43:55,689 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-06 15:43:55,689 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-06 15:43:55,690 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-06 15:43:55,690 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-06 15:43:55,690 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-06 15:43:55,690 - INFO - 已加载 1 个预设
+2025-06-06 15:43:55,844 - INFO - 正在初始化 vosk 引擎...
+2025-06-06 15:44:15,669 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-06 15:44:15,669 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-06 15:44:22,054 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-06 15:44:24,508 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-06 15:44:31,358 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-06 15:44:31,360 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-06 15:44:33,479 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-06 15:49:29,613 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-06 15:49:29,613 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-06 15:49:29,613 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-06 15:49:29,613 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-06 15:49:29,613 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-06 15:49:29,614 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-06 15:49:29,614 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-06 15:49:29,614 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-06 15:49:29,615 - INFO - 已加载 1 个预设
+2025-06-06 15:49:29,677 - INFO - 正在初始化 vosk 引擎...
+2025-06-06 15:49:49,203 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-06 15:49:49,203 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-06 15:49:56,130 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-06 15:50:01,320 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-06 15:50:02,693 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-06 15:50:08,607 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-06 15:50:08,608 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-06 15:50:15,033 - INFO - 准备处理 6 个文件...
+2025-06-06 15:50:16,579 - WARNING - ⚠️ [1/6] Voice_TL_Execute_T8_3.wav 无转录结果
+2025-06-06 15:50:17,567 - WARNING - ⚠️ [2/6] Voice_TL_Start_JingKe_9.wav 无转录结果
+2025-06-06 15:50:19,060 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-06 15:50:21,512 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-06 15:50:23,217 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-06 15:50:24,283 - WARNING - ⚠️ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 无转录结果
+2025-06-06 15:50:29,320 - INFO - 识别文本已填充到Excel工作表 'CN' 列 B，起始行 2
+2025-06-06 16:45:11,011 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-06 16:45:11,011 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-06 16:45:11,012 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-06 16:45:11,012 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-06 16:45:11,012 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-06 16:45:11,013 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-06 16:45:11,013 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-06 16:45:11,013 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-06 16:45:11,014 - INFO - 已加载 1 个预设
+2025-06-06 16:45:11,128 - INFO - 正在初始化 vosk 引擎...
+2025-06-06 16:45:32,237 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-06 16:45:32,237 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-06 16:45:38,263 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-06 16:45:39,777 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-06 16:45:49,930 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-06 16:45:50,438 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-06 16:45:56,705 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-06 16:45:56,707 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-06 16:46:04,437 - INFO - 准备处理 6 个文件...
+2025-06-06 16:46:05,994 - WARNING - ⚠️ [1/6] Voice_TL_Execute_T8_3.wav 无转录结果
+2025-06-06 16:46:07,002 - WARNING - ⚠️ [2/6] Voice_TL_Start_JingKe_9.wav 无转录结果
+2025-06-06 16:46:08,513 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-06 16:46:10,983 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-06 16:46:12,650 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-06 16:46:13,668 - WARNING - ⚠️ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 无转录结果
+2025-06-09 09:28:08,351 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-09 09:28:08,352 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-09 09:28:08,353 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-09 09:28:08,353 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-09 09:28:08,354 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-09 09:28:08,355 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-09 09:28:08,355 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-09 09:28:08,355 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 09:28:08,356 - INFO - 已加载 1 个预设
+2025-06-09 09:28:08,585 - INFO - 正在初始化 vosk 引擎...
+2025-06-09 09:28:28,430 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-09 09:28:28,430 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 09:28:37,590 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-09 09:28:47,616 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-09 09:28:47,619 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-09 09:28:53,085 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 09:28:57,184 - INFO - ✅ 模型加载成功: CN/vosk-model-cn-0.22
+2025-06-09 09:29:02,076 - INFO - 准备处理 3 个文件...
+2025-06-09 09:29:03,584 - WARNING - ⚠️ [1/3] Voice_TL_Execute_T8_3.wav 无转录结果
+2025-06-09 09:29:04,537 - WARNING - ⚠️ [2/3] Voice_TL_Start_JingKe_9.wav 无转录结果
+2025-06-09 09:29:05,934 - INFO - ✅ [3/3] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 09:29:12,040 - INFO - 识别文本已填充到Excel工作表 'CN' 列 B，起始行 2
+2025-06-09 09:33:01,972 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-09 09:33:01,972 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-09 09:33:01,973 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-09 09:33:01,973 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-09 09:33:01,973 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-09 09:33:01,974 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-09 09:33:01,974 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-09 09:33:01,974 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 09:33:01,974 - INFO - 已加载 1 个预设
+2025-06-09 09:33:02,083 - INFO - 正在初始化 vosk 引擎...
+2025-06-09 09:33:21,035 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-09 09:33:21,035 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 09:33:27,705 - INFO - ✅ 模型加载成功: CN/vosk-model-cn-0.22
+2025-06-09 09:33:33,513 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-09 09:33:34,845 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 09:33:41,706 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-09 09:33:41,707 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-09 09:33:46,971 - INFO - 准备处理 3 个文件...
+2025-06-09 09:33:48,426 - WARNING - ⚠️ [1/3] Voice_TL_Execute_T8_3.wav 无转录结果
+2025-06-09 09:33:49,384 - WARNING - ⚠️ [2/3] Voice_TL_Start_JingKe_9.wav 无转录结果
+2025-06-09 09:33:50,801 - INFO - ✅ [3/3] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 09:43:28,855 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-09 09:43:28,856 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-09 09:43:28,856 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-09 09:43:28,856 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-09 09:43:28,857 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-09 09:43:28,857 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-09 09:43:28,857 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-09 09:43:28,857 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 09:43:28,858 - INFO - 已加载 1 个预设
+2025-06-09 09:43:28,963 - INFO - 正在初始化 vosk 引擎...
+2025-06-09 09:43:47,683 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-09 09:43:47,683 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 09:43:54,032 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 09:43:54,032 - INFO - 预设 'TEST01' 已加载
+2025-06-09 09:44:04,323 - INFO - ✅ 模型加载成功: CN/vosk-model-cn-0.22
+2025-06-09 09:44:06,957 - INFO - 准备处理 3 个文件...
+2025-06-09 09:44:08,588 - INFO - ✅ [1/3] Voice_TL_Execute_T8_3.wav 转录成功
+2025-06-09 09:44:08,987 - INFO - ✅ [2/3] Voice_TL_Start_JingKe_9.wav 转录成功
+2025-06-09 09:44:10,066 - INFO - ✅ [3/3] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 09:44:21,022 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-09 09:44:21,022 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-09 09:44:28,987 - INFO - 识别文本已填充到Excel工作表 'CN' 列 B，起始行 2
+2025-06-09 09:45:39,211 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-09 09:45:44,831 - INFO - 准备处理 6 个文件...
+2025-06-09 09:45:46,348 - INFO - ✅ [1/6] Voice_TL_Execute_T8_3.wav 转录成功
+2025-06-09 09:45:46,755 - INFO - ✅ [2/6] Voice_TL_Start_JingKe_9.wav 转录成功
+2025-06-09 09:45:47,932 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 09:45:49,105 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-09 09:45:49,857 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-09 09:45:50,293 - INFO - ✅ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 转录成功
+2025-06-09 09:46:04,313 - INFO - 文件名已填充到Excel: 工作表 'CN' 从 A2 开始
+2025-06-09 09:46:05,907 - INFO - 识别文本已填充到Excel工作表 'CN' 列 B，起始行 2
+2025-06-09 09:49:52,273 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-09 09:49:52,274 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-09 09:49:52,274 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-09 09:49:52,274 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-09 09:49:52,275 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-09 09:49:52,275 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-09 09:49:52,275 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-09 09:49:52,275 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 09:49:52,276 - INFO - 已加载 1 个预设
+2025-06-09 09:49:52,362 - INFO - 正在初始化 vosk 引擎...
+2025-06-09 09:50:11,179 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-09 09:50:11,179 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 09:50:40,345 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-09 09:50:50,664 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 09:50:50,669 - INFO - 预设 'TEST01' 已加载
+2025-06-09 09:50:59,367 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-09 09:50:59,369 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-09 09:52:13,407 - INFO - 预设已保存到: audio_to_text_presets.json
+2025-06-09 09:52:22,603 - INFO - 准备处理 6 个文件...
+2025-06-09 09:52:24,156 - INFO - ✅ [1/6] Voice_TL_Execute_T8_3.wav 转录成功
+2025-06-09 09:52:24,878 - INFO - ✅ [2/6] Voice_TL_Start_JingKe_9.wav 转录成功
+2025-06-09 09:52:26,022 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 09:52:27,116 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-09 09:52:27,837 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-09 09:52:28,239 - INFO - ✅ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 转录成功
+2025-06-09 10:04:19,501 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-09 10:04:19,501 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-09 10:04:19,502 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-09 10:04:19,502 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-09 10:04:19,502 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-09 10:04:19,502 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-09 10:04:19,503 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-09 10:04:19,503 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 10:04:19,503 - INFO - 已加载 1 个预设
+2025-06-09 10:04:19,579 - INFO - 正在初始化 vosk 引擎...
+2025-06-09 10:04:38,342 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-09 10:04:38,343 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 10:09:58,132 - INFO - 已加载预设模型: CN/vosk-model-cn-0.22
+2025-06-09 10:09:58,143 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 10:09:58,143 - INFO - 预设 'TEST01' 已加载
+2025-06-09 10:10:05,750 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-09 10:10:13,667 - INFO - 准备处理 6 个文件...
+2025-06-09 10:10:15,219 - INFO - ✅ [1/6] Voice_TL_Execute_T8_3.wav 转录成功
+2025-06-09 10:10:15,586 - INFO - ✅ [2/6] Voice_TL_Start_JingKe_9.wav 转录成功
+2025-06-09 10:10:16,642 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 10:10:17,724 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-09 10:10:18,445 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-09 10:10:18,844 - INFO - ✅ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 转录成功
+2025-06-09 10:10:23,747 - INFO - 文件名已填充到Excel: 工作表 'CN' 从 A2 开始
+2025-06-09 10:10:25,702 - INFO - 识别文本已填充到Excel工作表 'CN' 列 B，起始行 2
+2025-06-09 10:18:29,957 - INFO - ✅ 找到VOSK模型: CN/vosk-model-cn-0.22
+2025-06-09 10:18:29,957 - INFO - ✅ 找到VOSK模型: CN/vosk-model-small-cn-0.22
+2025-06-09 10:18:29,957 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22
+2025-06-09 10:18:29,958 - INFO - ✅ 找到VOSK模型: EN/vosk-model-en-us-0.22-lgraph
+2025-06-09 10:18:29,958 - INFO - ✅ 加载MICROSOFT配置: Microsoft/config
+2025-06-09 10:18:29,958 - INFO - ✅ 加载TENCENT配置: Tencent/tencent_config
+2025-06-09 10:18:29,958 - INFO - ✅ 找到WHISPER模型: WHISPER/large-v3.pt
+2025-06-09 10:18:29,958 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 10:18:29,958 - INFO - 已加载 1 个预设
+2025-06-09 10:18:30,116 - INFO - 正在初始化 vosk 引擎...
+2025-06-09 10:18:48,970 - INFO - ✅ VOSK模型加载成功 | 语言: zh
+2025-06-09 10:18:48,971 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 10:18:56,276 - INFO - 已加载预设模型: CN/vosk-model-cn-0.22
+2025-06-09 10:18:56,287 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 10:18:56,292 - INFO - 预设 'TEST01' 已加载
+2025-06-09 10:19:05,834 - INFO - 预设已保存到: audio_to_text_presets.json
+2025-06-09 10:19:09,783 - INFO - ✅ 模型加载成功: Tencent/tencent_config
+2025-06-09 10:19:14,720 - INFO - 准备处理 6 个文件...
+2025-06-09 10:19:16,211 - INFO - ✅ [1/6] Voice_TL_Execute_T8_3.wav 转录成功
+2025-06-09 10:19:16,624 - INFO - ✅ [2/6] Voice_TL_Start_JingKe_9.wav 转录成功
+2025-06-09 10:19:17,709 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 10:19:18,826 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-09 10:19:19,597 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-09 10:19:20,026 - INFO - ✅ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 转录成功
+2025-06-09 13:58:54,459 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 13:58:54,460 - INFO - Initializing vosk engine...
+2025-06-09 13:59:12,505 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 13:59:12,505 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 13:59:20,327 - INFO - 已加载预设模型: CN/vosk-model-cn-0.22
+2025-06-09 13:59:20,337 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 13:59:20,337 - INFO - 预设 'TSET01' 已加载
+2025-06-09 13:59:25,820 - INFO - Initializing tencent engine...
+2025-06-09 13:59:25,820 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 13:59:25,820 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 13:59:26,124 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 13:59:26,830 - INFO - Tencent task created | TaskId: 12346931905
+2025-06-09 13:59:28,022 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 13:59:28,130 - INFO - 测试结果: [0:0.000,0:1.000]  嗯。
+...
+2025-06-09 13:59:39,739 - INFO - 准备处理 6 个文件...
+2025-06-09 13:59:41,065 - INFO - Tencent task created | TaskId: 12346933622
+2025-06-09 13:59:42,154 - INFO - ✅ [1/6] Voice_TL_Execute_T8_3.wav 转录成功
+2025-06-09 13:59:42,611 - INFO - Tencent task created | TaskId: 12346933839
+2025-06-09 13:59:43,807 - INFO - ✅ [2/6] Voice_TL_Start_JingKe_9.wav 转录成功
+2025-06-09 13:59:44,373 - INFO - Tencent task created | TaskId: 12346934030
+2025-06-09 13:59:51,123 - INFO - ✅ [3/6] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 13:59:51,447 - INFO - Tencent task created | TaskId: 12346934871
+2025-06-09 13:59:52,607 - INFO - ✅ [4/6] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-09 13:59:53,092 - INFO - Tencent task created | TaskId: 12346935056
+2025-06-09 13:59:54,387 - INFO - ✅ [5/6] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-09 13:59:54,652 - INFO - Tencent task created | TaskId: 12346935237
+2025-06-09 13:59:58,027 - INFO - ✅ [6/6] VO_Battle_BossZH1_BaiLingYan_03.wav 转录成功
+2025-06-09 14:00:05,604 - INFO - 文件名已填充到Excel: 工作表 'CN' 从 A2 开始
+2025-06-09 14:00:07,462 - INFO - 识别文本已填充到Excel工作表 'CN' 列 C，起始行 2
+2025-06-09 14:13:32,396 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 14:13:32,396 - INFO - Initializing vosk engine...
+2025-06-09 14:13:51,574 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 14:13:51,574 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 14:13:55,648 - INFO - 已加载预设模型: CN/vosk-model-cn-0.22
+2025-06-09 14:13:55,658 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 14:13:55,658 - INFO - 预设 'TSET01' 已加载
+2025-06-09 14:14:11,339 - INFO - 准备处理 4 个文件...
+2025-06-09 14:14:13,042 - INFO - ✅ [1/4] VO_CaiLian_A_013_BaiLingYan.wav 转录成功
+2025-06-09 14:14:13,795 - INFO - ✅ [2/4] VO_CaiLian_CS1_001_BaiLingYan.wav 转录成功
+2025-06-09 14:14:15,357 - INFO - ✅ [3/4] VO_CaiLian_CS1_002_BaiLingYan.wav 转录成功
+2025-06-09 14:14:15,847 - INFO - ✅ [4/4] VO_CaiLian_CS1_004_BaiLingYan.wav 转录成功
+2025-06-09 14:16:02,242 - INFO - Initializing tencent engine...
+2025-06-09 14:16:02,242 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 14:16:02,242 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 14:16:02,574 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 14:16:03,083 - INFO - Tencent task created | TaskId: 12347122411
+2025-06-09 14:16:05,323 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 14:16:05,326 - INFO - 测试结果: [0:0.000,0:1.000]  嗯。
+...
+2025-06-09 14:16:11,587 - INFO - 准备处理 4 个文件...
+2025-06-09 14:16:12,091 - INFO - Tencent task created | TaskId: 12347124373
+2025-06-09 14:16:14,327 - INFO - ✅ [1/4] VO_CaiLian_A_013_BaiLingYan.wav 转录成功
+2025-06-09 14:16:14,664 - INFO - Tencent task created | TaskId: 12347124769
+2025-06-09 14:16:16,885 - INFO - ✅ [2/4] VO_CaiLian_CS1_001_BaiLingYan.wav 转录成功
+2025-06-09 14:16:17,345 - INFO - Tencent task created | TaskId: 12347125313
+2025-06-09 14:16:19,579 - INFO - ✅ [3/4] VO_CaiLian_CS1_002_BaiLingYan.wav 转录成功
+2025-06-09 14:16:20,889 - INFO - Tencent task created | TaskId: 12347126014
+2025-06-09 14:16:23,131 - INFO - ✅ [4/4] VO_CaiLian_CS1_004_BaiLingYan.wav 转录成功
+2025-06-09 14:38:52,745 - INFO - 文件名已填充到Excel: 工作表 'CN' 从 A2 开始
+2025-06-09 14:43:39,027 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 14:43:39,027 - INFO - Initializing vosk engine...
+2025-06-09 14:43:57,819 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 14:43:57,820 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 14:44:05,197 - INFO - 已加载预设模型: CN/vosk-model-cn-0.22
+2025-06-09 14:44:05,213 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 14:44:05,220 - INFO - 预设 'TSET01' 已加载
+2025-06-09 14:44:18,920 - INFO - Initializing tencent engine...
+2025-06-09 14:44:18,920 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 14:44:18,921 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 14:44:19,210 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 14:44:19,663 - INFO - Tencent task created | TaskId: 12347469862
+2025-06-09 14:44:20,958 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 14:44:21,071 - INFO - 测试结果: ...
+2025-06-09 14:44:28,342 - INFO - 准备处理 16 个文件...
+2025-06-09 14:44:30,020 - INFO - Tencent task created | TaskId: 12347471833
+2025-06-09 14:44:31,230 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 14:44:31,809 - INFO - Tencent task created | TaskId: 12347472219
+2025-06-09 14:44:34,165 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 14:44:34,848 - INFO - Tencent task created | TaskId: 12347472763
+2025-06-09 14:44:36,052 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 14:44:36,636 - INFO - Tencent task created | TaskId: 12347473142
+2025-06-09 14:44:37,924 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 14:44:38,672 - INFO - Tencent task created | TaskId: 12347473565
+2025-06-09 14:44:39,968 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 14:44:40,277 - INFO - Tencent task created | TaskId: 12347473879
+2025-06-09 14:44:42,422 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 14:44:43,045 - INFO - Tencent task created | TaskId: 12347474420
+2025-06-09 14:44:45,487 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 14:44:46,173 - INFO - Tencent task created | TaskId: 12347474889
+2025-06-09 14:44:48,403 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 14:44:48,983 - INFO - Tencent task created | TaskId: 12347475436
+2025-06-09 14:44:50,285 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 14:44:51,022 - INFO - Tencent task created | TaskId: 12347475798
+2025-06-09 14:44:52,321 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 14:44:52,608 - INFO - Tencent task created | TaskId: 12347476130
+2025-06-09 14:44:58,136 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 14:44:58,815 - INFO - Tencent task created | TaskId: 12347477008
+2025-06-09 14:44:59,905 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 14:45:00,255 - INFO - Tencent task created | TaskId: 12347477341
+2025-06-09 14:45:04,626 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 14:45:05,073 - INFO - Tencent task created | TaskId: 12347478483
+2025-06-09 14:45:06,354 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 14:45:06,691 - INFO - Tencent task created | TaskId: 12347478857
+2025-06-09 14:45:07,793 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 14:45:08,451 - INFO - Tencent task created | TaskId: 12347479296
+2025-06-09 14:45:09,747 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 14:45:24,214 - INFO - 识别文本已填充到Excel工作表 'CN' 列 C，起始行 2
+2025-06-09 14:52:26,136 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 14:52:26,136 - INFO - Initializing vosk engine...
+2025-06-09 14:52:44,467 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 14:52:44,467 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 14:52:54,600 - INFO - 已加载预设模型: CN/vosk-model-cn-0.22
+2025-06-09 14:52:54,616 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 14:52:54,622 - INFO - 预设 'TSET01' 已加载
+2025-06-09 14:53:05,045 - INFO - 准备处理 16 个文件...
+2025-06-09 14:53:07,510 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 14:53:08,747 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 14:53:08,944 - INFO - ⏹️ 用户请求停止处理
+2025-06-09 14:53:08,951 - INFO - 等待处理线程安全退出...
+2025-06-09 14:53:10,962 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 14:53:15,192 - INFO - Initializing tencent engine...
+2025-06-09 14:53:15,193 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 14:53:15,193 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 14:53:15,457 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 14:53:15,796 - INFO - Tencent task created | TaskId: 12347575409
+2025-06-09 14:53:16,892 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 14:53:16,893 - INFO - 测试结果: 嗯。
+...
+2025-06-09 14:53:21,744 - INFO - 准备处理 16 个文件...
+2025-06-09 14:53:22,487 - INFO - Tencent task created | TaskId: 12347576616
+2025-06-09 14:53:24,753 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 14:53:25,112 - INFO - Tencent task created | TaskId: 12347577282
+2025-06-09 14:53:27,466 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 14:53:27,900 - INFO - Tencent task created | TaskId: 12347577926
+2025-06-09 14:53:29,099 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 14:53:29,510 - INFO - Tencent task created | TaskId: 12347578248
+2025-06-09 14:53:38,465 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 14:53:38,795 - INFO - Tencent task created | TaskId: 12347580105
+2025-06-09 14:53:40,271 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 14:53:40,840 - INFO - Tencent task created | TaskId: 12347580450
+2025-06-09 14:53:42,060 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 14:53:42,542 - INFO - Tencent task created | TaskId: 12347580804
+2025-06-09 14:53:44,911 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 14:53:45,269 - INFO - Tencent task created | TaskId: 12347581242
+2025-06-09 14:53:47,718 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 14:53:48,407 - INFO - Tencent task created | TaskId: 12347581868
+2025-06-09 14:53:49,516 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 14:53:49,928 - INFO - Tencent task created | TaskId: 12347582103
+2025-06-09 14:54:01,018 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 14:54:01,319 - INFO - Tencent task created | TaskId: 12347584256
+2025-06-09 14:54:03,688 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 14:54:04,367 - INFO - Tencent task created | TaskId: 12347584882
+2025-06-09 14:54:05,461 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 14:54:05,734 - INFO - Tencent task created | TaskId: 12347585265
+2025-06-09 14:54:07,038 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 14:54:07,563 - INFO - Tencent task created | TaskId: 12347585782
+2025-06-09 14:54:18,881 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 14:54:19,414 - INFO - Tencent task created | TaskId: 12347588268
+2025-06-09 14:54:29,432 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 14:54:29,903 - INFO - Tencent task created | TaskId: 12347590525
+2025-06-09 14:54:31,138 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 14:54:39,965 - ERROR - 填充文件名失败: [Errno 13] Permission denied: 'H:/JianyingPro/TESTSTT.xlsx'
+2025-06-09 14:54:44,711 - INFO - 文件名已填充到Excel: 工作表 'CN' 从 A2 开始
+2025-06-09 14:54:46,829 - INFO - 识别文本已填充到Excel工作表 'CN' 列 C，起始行 2
+2025-06-09 15:06:40,928 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:06:40,928 - INFO - Initializing vosk engine...
+2025-06-09 15:06:58,640 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:06:58,640 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:07:04,551 - INFO - 已加载预设模型: CN/vosk-model-cn-0.22
+2025-06-09 15:07:04,569 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 15:07:04,574 - INFO - 预设 'TSET01' 已加载
+2025-06-09 15:07:13,915 - INFO - Initializing tencent engine...
+2025-06-09 15:07:13,915 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 15:07:13,915 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 15:07:14,193 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 15:07:14,705 - INFO - Tencent task created | TaskId: 12347758416
+2025-06-09 15:07:16,013 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 15:07:16,120 - INFO - 测试结果: 嗯。
+...
+2025-06-09 15:09:15,382 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:09:15,382 - INFO - Initializing vosk engine...
+2025-06-09 15:09:34,121 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:09:34,121 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:16:36,224 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:16:36,224 - INFO - Initializing vosk engine...
+2025-06-09 15:16:54,865 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:16:54,867 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:17:31,300 - INFO - 预设已保存到: audio_to_text_presets.json
+2025-06-09 15:19:06,053 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:19:06,053 - INFO - Initializing vosk engine...
+2025-06-09 15:19:23,853 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:19:23,853 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:19:43,079 - INFO - 预设已保存到: audio_to_text_presets.json
+2025-06-09 15:19:46,182 - INFO - 预设已保存到: audio_to_text_presets.json
+2025-06-09 15:20:29,429 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:20:29,430 - INFO - Initializing vosk engine...
+2025-06-09 15:20:48,316 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:20:48,316 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:27:12,004 - INFO - 成功加载 1 个预设
+2025-06-09 15:27:12,004 - ERROR - 程序启动失败: 'AudioToTextTool' object has no attribute 'after'
+Traceback (most recent call last):
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 1395, in <module>
+    app = AudioToTextTool(root)
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 66, in __init__
+    self.after(100, self.refresh_preset_combobox)  # 延迟刷新下拉菜单
+AttributeError: 'AudioToTextTool' object has no attribute 'after'
+2025-06-09 15:28:53,138 - INFO - 成功加载 1 个预设
+2025-06-09 15:28:53,140 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:28:53,140 - INFO - Initializing vosk engine...
+2025-06-09 15:29:11,007 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:29:11,007 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:29:26,109 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-09 15:29:27,521 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 15:29:32,588 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-09 15:29:32,589 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-09 15:29:44,584 - INFO - Initializing tencent engine...
+2025-06-09 15:29:44,584 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 15:29:44,584 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 15:29:44,857 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 15:29:45,585 - INFO - Tencent task created | TaskId: 12348050918
+2025-06-09 15:29:47,945 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 15:29:48,054 - INFO - 测试结果: 嗯。
+...
+2025-06-09 15:31:45,127 - INFO - 成功加载 1 个预设
+2025-06-09 15:31:45,128 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:31:45,128 - INFO - Initializing vosk engine...
+2025-06-09 15:32:03,508 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:32:03,508 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:40:31,267 - ERROR - 程序启动失败: 'AudioToTextTool' object has no attribute 'load_presets_from_file'
+Traceback (most recent call last):
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 1423, in <module>
+    app = AudioToTextTool(root)
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 31, in __init__
+    self.load_presets_from_file()
+AttributeError: 'AudioToTextTool' object has no attribute 'load_presets_from_file'
+2025-06-09 15:42:37,986 - ERROR - 程序启动失败: 'AudioToTextTool' object has no attribute 'load_presets_from_file'
+Traceback (most recent call last):
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 1405, in <module>
+    app = AudioToTextTool(root)
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 82, in __init__
+    self.load_presets_from_file()
+AttributeError: 'AudioToTextTool' object has no attribute 'load_presets_from_file'
+2025-06-09 15:44:50,018 - ERROR - 程序启动失败: 'AudioToTextTool' object has no attribute 'excel_entry'
+Traceback (most recent call last):
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 1435, in <module>
+    app = AudioToTextTool(root)
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 89, in __init__
+    self.excel_entry.bind("<FocusOut>", lambda e: self.on_excel_path_changed())
+AttributeError: 'AudioToTextTool' object has no attribute 'excel_entry'
+2025-06-09 15:47:15,301 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:47:15,301 - INFO - Initializing vosk engine...
+2025-06-09 15:47:32,925 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:47:32,925 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:47:46,049 - INFO - 已选择文件夹: H:/JianyingPro/test
+2025-06-09 15:47:47,491 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 15:47:53,166 - INFO - 已加载工作表: EN, CN, 已删除文件
+2025-06-09 15:47:53,166 - INFO - 已选择Excel文件: H:/JianyingPro/TESTSTT.xlsx | 工作表: EN
+2025-06-09 15:47:57,628 - INFO - Initializing tencent engine...
+2025-06-09 15:47:57,629 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 15:47:57,629 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 15:47:57,892 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 15:47:58,400 - INFO - Tencent task created | TaskId: 12348295667
+2025-06-09 15:47:59,604 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 15:47:59,718 - INFO - 测试结果: 嗯。
+...
+2025-06-09 15:48:24,465 - INFO - 准备处理 16 个文件...
+2025-06-09 15:48:25,784 - INFO - Tencent task created | TaskId: 12348301803
+2025-06-09 15:48:28,022 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 15:48:28,770 - INFO - Tencent task created | TaskId: 12348302392
+2025-06-09 15:48:31,129 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 15:48:31,835 - INFO - Tencent task created | TaskId: 12348303111
+2025-06-09 15:48:34,206 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 15:48:34,824 - INFO - Tencent task created | TaskId: 12348303802
+2025-06-09 15:48:36,028 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 15:48:36,475 - INFO - Tencent task created | TaskId: 12348304224
+2025-06-09 15:48:38,826 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 15:48:39,075 - INFO - Tencent task created | TaskId: 12348304726
+2025-06-09 15:48:46,734 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 15:48:47,373 - INFO - Tencent task created | TaskId: 12348306344
+2025-06-09 15:48:48,599 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 15:48:49,273 - INFO - Tencent task created | TaskId: 12348306690
+2025-06-09 15:48:50,478 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 15:48:50,949 - INFO - Tencent task created | TaskId: 12348307001
+2025-06-09 15:48:53,210 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 15:48:53,902 - INFO - Tencent task created | TaskId: 12348307521
+2025-06-09 15:48:56,150 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 15:48:56,492 - INFO - Tencent task created | TaskId: 12348308147
+2025-06-09 15:48:57,672 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 15:48:58,292 - INFO - Tencent task created | TaskId: 12348308476
+2025-06-09 15:48:59,480 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 15:49:00,301 - INFO - Tencent task created | TaskId: 12348308990
+2025-06-09 15:49:01,517 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 15:49:02,002 - INFO - Tencent task created | TaskId: 12348309405
+2025-06-09 15:49:14,246 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 15:49:14,646 - INFO - Tencent task created | TaskId: 12348312462
+2025-06-09 15:49:19,174 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 15:49:19,425 - INFO - Tencent task created | TaskId: 12348313319
+2025-06-09 15:49:20,618 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 15:51:37,220 - INFO - 识别文本已填充到Excel工作表 'CN' - 成功匹配并填充 23 个文件
+
+以下 81 个文件未找到匹配的识别结果:
+VO_Pic_YuHuoHongLian_A_001_BaiLingYan.wav
+VO_Pic_YuHuoHongLian_P_001_BaiLingYan.wav
+VO_YuBi_Black_A_001_BaiLingYan.wav
+VO_YuBi_Black_A_002_BaiLingYan.wav
+VO_YuBi_Black_A_003_BaiLingYan.wav
+VO_YuBi_Black_A_004_BaiLingYan.wav
+VO_YuBi_Black_A_015_BaiLingYan.wav
+VO_YuBi_Black_A_018_BaiLingYan.wav
+VO_YuBi_Black_A_019_BaiLingYan.wav
+VO_YuBi_Black_A_020_BaiLingYan.wav
+...等共 81 个文件
+2025-06-09 15:52:33,151 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:52:33,151 - INFO - Initializing vosk engine...
+2025-06-09 15:52:51,078 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:52:51,079 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:57:11,375 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 15:57:11,375 - INFO - Initializing vosk engine...
+2025-06-09 15:57:29,658 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 15:57:29,658 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 15:57:38,557 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 15:57:44,898 - INFO - Initializing tencent engine...
+2025-06-09 15:57:44,898 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 15:57:44,898 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 15:57:45,151 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 15:57:45,621 - INFO - Tencent task created | TaskId: 12348419986
+2025-06-09 15:57:47,789 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 15:57:47,900 - INFO - 测试结果: 嗯。
+...
+2025-06-09 15:57:51,802 - INFO - 准备处理 16 个文件...
+2025-06-09 15:57:53,007 - INFO - Tencent task created | TaskId: 12348421247
+2025-06-09 15:57:54,123 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 15:57:54,554 - INFO - Tencent task created | TaskId: 12348421571
+2025-06-09 15:57:57,897 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 15:57:58,349 - INFO - Tencent task created | TaskId: 12348422287
+2025-06-09 15:58:01,740 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 15:58:02,526 - INFO - Tencent task created | TaskId: 12348423186
+2025-06-09 15:58:03,727 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 15:58:04,447 - INFO - Tencent task created | TaskId: 12348423537
+2025-06-09 15:58:05,762 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 15:58:06,227 - INFO - Tencent task created | TaskId: 12348423897
+2025-06-09 15:58:07,443 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 15:58:08,127 - INFO - Tencent task created | TaskId: 12348424222
+2025-06-09 15:58:09,231 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 15:58:09,863 - INFO - Tencent task created | TaskId: 12348424585
+2025-06-09 15:58:10,968 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 15:58:11,497 - INFO - Tencent task created | TaskId: 12348425001
+2025-06-09 15:58:13,869 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 15:58:14,543 - INFO - Tencent task created | TaskId: 12348425524
+2025-06-09 15:58:15,854 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 15:58:16,263 - INFO - Tencent task created | TaskId: 12348425899
+2025-06-09 15:58:18,438 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 15:58:19,051 - INFO - Tencent task created | TaskId: 12348426368
+2025-06-09 15:58:21,334 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 15:58:21,971 - INFO - Tencent task created | TaskId: 12348426939
+2025-06-09 15:58:32,810 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 15:58:33,361 - INFO - Tencent task created | TaskId: 12348429208
+2025-06-09 15:58:34,577 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 15:58:34,914 - INFO - Tencent task created | TaskId: 12348429452
+2025-06-09 15:58:36,112 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 15:58:36,356 - INFO - Tencent task created | TaskId: 12348429726
+2025-06-09 15:58:38,829 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 15:58:47,346 - INFO - 识别文本已填充到Excel工作表 'CN' - 成功匹配并填充 23 个文件
+
+以下 81 个文件未找到匹配的识别结果:
+VO_Pic_YuHuoHongLian_A_001_BaiLingYan.wav
+VO_Pic_YuHuoHongLian_P_001_BaiLingYan.wav
+VO_YuBi_Black_A_001_BaiLingYan.wav
+VO_YuBi_Black_A_002_BaiLingYan.wav
+VO_YuBi_Black_A_003_BaiLingYan.wav
+VO_YuBi_Black_A_004_BaiLingYan.wav
+VO_YuBi_Black_A_015_BaiLingYan.wav
+VO_YuBi_Black_A_018_BaiLingYan.wav
+VO_YuBi_Black_A_019_BaiLingYan.wav
+VO_YuBi_Black_A_020_BaiLingYan.wav
+...等共 81 个文件
+2025-06-09 16:03:24,890 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 16:03:24,890 - INFO - Initializing vosk engine...
+2025-06-09 16:03:43,168 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 16:03:43,168 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 16:03:50,963 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 16:10:38,226 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 16:10:38,226 - INFO - Initializing vosk engine...
+2025-06-09 16:10:57,628 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 16:10:57,628 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 16:11:17,074 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 16:11:22,923 - INFO - Initializing tencent engine...
+2025-06-09 16:11:22,923 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 16:11:22,923 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 16:11:23,248 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 16:11:24,045 - INFO - Tencent task created | TaskId: 12348609746
+2025-06-09 16:11:26,490 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 16:11:26,606 - INFO - 测试结果: ...
+2025-06-09 16:11:28,940 - INFO - 准备处理 16 个文件...
+2025-06-09 16:11:30,471 - INFO - Tencent task created | TaskId: 12348611132
+2025-06-09 16:11:32,824 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 16:11:33,474 - INFO - Tencent task created | TaskId: 12348611744
+2025-06-09 16:11:34,795 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 16:11:35,508 - INFO - Tencent task created | TaskId: 12348612188
+2025-06-09 16:11:36,822 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 16:11:37,291 - INFO - Tencent task created | TaskId: 12348612590
+2025-06-09 16:11:39,439 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 16:11:39,946 - INFO - Tencent task created | TaskId: 12348613182
+2025-06-09 16:11:52,123 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 16:11:52,483 - INFO - Tencent task created | TaskId: 12348615783
+2025-06-09 16:11:53,802 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 16:11:54,202 - INFO - Tencent task created | TaskId: 12348616146
+2025-06-09 16:11:56,578 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 16:11:56,853 - INFO - Tencent task created | TaskId: 12348616625
+2025-06-09 16:11:59,100 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 16:11:59,536 - INFO - Tencent task created | TaskId: 12348617122
+2025-06-09 16:12:00,762 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 16:12:01,262 - INFO - Tencent task created | TaskId: 12348617526
+2025-06-09 16:12:02,361 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 16:12:02,685 - INFO - Tencent task created | TaskId: 12348617958
+2025-06-09 16:12:03,996 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 16:12:04,455 - INFO - Tencent task created | TaskId: 12348618479
+2025-06-09 16:12:05,660 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 16:12:06,296 - INFO - Tencent task created | TaskId: 12348618953
+2025-06-09 16:12:18,285 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 16:12:18,573 - INFO - Tencent task created | TaskId: 12348622023
+2025-06-09 16:12:20,833 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 16:12:21,345 - INFO - Tencent task created | TaskId: 12348622737
+2025-06-09 16:12:22,446 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 16:12:22,924 - INFO - Tencent task created | TaskId: 12348623121
+2025-06-09 16:12:25,299 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 16:13:22,779 - INFO - 报告已导出到: H:/JianyingPro/语音识别报告.xlsx
+2025-06-09 16:17:10,247 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 16:17:10,247 - INFO - Initializing vosk engine...
+2025-06-09 16:17:28,115 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 16:17:28,115 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 16:17:40,102 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 16:17:47,132 - INFO - Initializing tencent engine...
+2025-06-09 16:17:47,132 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 16:17:47,133 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 16:17:47,391 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 16:17:48,130 - INFO - Tencent task created | TaskId: 12348695428
+2025-06-09 16:17:50,389 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 16:17:50,497 - INFO - 测试结果: 嗯。
+...
+2025-06-09 16:17:52,362 - INFO - 准备处理 16 个文件...
+2025-06-09 16:17:53,911 - INFO - Tencent task created | TaskId: 12348696553
+2025-06-09 16:17:58,247 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 16:17:58,802 - INFO - Tencent task created | TaskId: 12348697441
+2025-06-09 16:18:02,328 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 16:18:03,029 - INFO - Tencent task created | TaskId: 12348698502
+2025-06-09 16:18:04,123 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 16:18:04,616 - INFO - Tencent task created | TaskId: 12348698921
+2025-06-09 16:18:05,902 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 16:18:06,168 - INFO - Tencent task created | TaskId: 12348699298
+2025-06-09 16:18:07,463 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 16:18:08,045 - INFO - Tencent task created | TaskId: 12348699727
+2025-06-09 16:18:17,228 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 16:18:17,828 - INFO - Tencent task created | TaskId: 12348701950
+2025-06-09 16:18:19,113 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 16:18:19,738 - INFO - Tencent task created | TaskId: 12348702335
+2025-06-09 16:18:20,828 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 16:18:21,120 - INFO - Tencent task created | TaskId: 12348702654
+2025-06-09 16:18:22,300 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 16:18:22,604 - INFO - Tencent task created | TaskId: 12348702993
+2025-06-09 16:18:25,986 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 16:18:26,230 - INFO - Tencent task created | TaskId: 12348703862
+2025-06-09 16:18:37,142 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 16:18:37,449 - INFO - Tencent task created | TaskId: 12348706180
+2025-06-09 16:18:38,526 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 16:18:38,770 - INFO - Tencent task created | TaskId: 12348706383
+2025-06-09 16:18:40,908 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 16:18:41,195 - INFO - Tencent task created | TaskId: 12348706936
+2025-06-09 16:18:43,450 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 16:18:43,922 - INFO - Tencent task created | TaskId: 12348707552
+2025-06-09 16:18:47,403 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 16:18:47,899 - INFO - Tencent task created | TaskId: 12348708355
+2025-06-09 16:18:49,103 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 16:19:12,615 - INFO - 报告已导出: C:/Users/ziyanglliu/PycharmProjects/PythonProject5/recognition_logs/20250609_161907_Tencent_tencent_config_VO_CaiLian_CS1_008_BaiLingYan_16.txt
+2025-06-09 16:19:23,287 - INFO - 文本填充完成 - 成功匹配并填充 16 处文本
+填充行号: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+
+以下 88 个文件未找到匹配的识别结果:
+VO_CaiLian_CS1_019_BaiLingYan.wav
+VO_CaiLian_CS1_021_BaiLingYan.wav
+VO_CaiLian_CS1_022_BaiLingYan.wav
+VO_CaiLian_CS1_023_BaiLingYan.wav
+VO_CaiLian_CS1_024_BaiLingYan.wav
+...等共 88 个文件
+2025-06-09 16:21:06,580 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 16:21:06,580 - INFO - Initializing vosk engine...
+2025-06-09 16:21:24,559 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 16:21:24,559 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 16:21:33,114 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 16:21:44,632 - INFO - 文件名已填充到Excel: 工作表 'CN' 从 A2 开始
+2025-06-09 16:25:03,785 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 16:25:03,785 - INFO - Initializing vosk engine...
+2025-06-09 16:25:21,878 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 16:25:21,878 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 16:25:32,929 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 16:25:56,805 - INFO - Initializing tencent engine...
+2025-06-09 16:25:56,805 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 16:25:56,805 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 16:25:57,066 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 16:25:57,534 - INFO - Tencent task created | TaskId: 12348801642
+2025-06-09 16:26:09,509 - INFO - ✅ 模型加载成功: Tencent/tencent_config (类型: TENCENT)
+2025-06-09 16:26:09,626 - INFO - 测试结果: 嗯。
+...
+2025-06-09 16:26:11,122 - INFO - 准备处理 16 个文件...
+2025-06-09 16:26:12,296 - INFO - Tencent task created | TaskId: 12348805350
+2025-06-09 16:26:14,555 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 16:26:14,918 - INFO - Tencent task created | TaskId: 12348805973
+2025-06-09 16:26:16,090 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 16:26:16,546 - INFO - Tencent task created | TaskId: 12348806290
+2025-06-09 16:26:19,853 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 16:26:20,340 - INFO - Tencent task created | TaskId: 12348807143
+2025-06-09 16:26:34,482 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 16:26:34,901 - INFO - Tencent task created | TaskId: 12348810355
+2025-06-09 16:26:40,397 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 16:26:40,713 - INFO - Tencent task created | TaskId: 12348811476
+2025-06-09 16:26:42,970 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 16:26:43,594 - INFO - Tencent task created | TaskId: 12348812187
+2025-06-09 16:26:45,815 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 16:26:46,150 - INFO - Tencent task created | TaskId: 12348812734
+2025-06-09 16:26:55,974 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 16:26:56,439 - INFO - Tencent task created | TaskId: 12348814729
+2025-06-09 16:27:00,844 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 16:27:01,421 - INFO - Tencent task created | TaskId: 12348815850
+2025-06-09 16:27:04,754 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 16:27:05,172 - INFO - Tencent task created | TaskId: 12348816762
+2025-06-09 16:27:06,329 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 16:27:06,668 - INFO - Tencent task created | TaskId: 12348817106
+2025-06-09 16:27:16,466 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 16:27:16,828 - INFO - Tencent task created | TaskId: 12348819317
+2025-06-09 16:27:19,067 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 16:27:19,421 - INFO - Tencent task created | TaskId: 12348819850
+2025-06-09 16:27:21,676 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 16:27:22,118 - INFO - Tencent task created | TaskId: 12348820494
+2025-06-09 16:27:36,218 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 16:27:36,618 - INFO - Tencent task created | TaskId: 12348823593
+2025-06-09 16:27:49,601 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 16:27:56,147 - INFO - 报告已导出: C:/Users/ziyanglliu/PycharmProjects/PythonProject5/recognition_logs/20250609_162753_Tencent_tencent_config_VO_CaiLian_CS1_008_BaiLingYan_16.txt
+2025-06-09 16:30:13,229 - INFO - 模型扫描完成，共找到 7 个可用模型
+2025-06-09 16:30:13,230 - INFO - Initializing vosk engine...
+2025-06-09 16:30:31,625 - INFO - ✅ VOSK model loaded | Language: zh
+2025-06-09 16:30:31,626 - INFO - 语音识别引擎初始化成功: CN/vosk-model-cn-0.22
+2025-06-09 16:30:44,841 - INFO - 文本填充完成 - 成功匹配并填充 1 处文本
+填充行号: 8
+
+以下 106 个文件未找到匹配的识别结果:
+Voice_TL_Execute_T8_3.wav
+Voice_TL_Start_JingKe_9.wav
+Voice_TL_TianYan_T8_12.wav
+VO_Battle_BossZH1_BaiLingYan_01.wav
+VO_Battle_BossZH1_BaiLingYan_02.wav
+...等共 106 个文件
+2025-06-09 16:35:09,728 - INFO - 模型扫描完成，共找到 7 个模型 (3 个有效)
+2025-06-09 16:38:21,592 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 16:38:21,592 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 16:38:31,577 - INFO - Initializing tencent engine...
+2025-06-09 16:38:31,577 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 16:38:31,577 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 16:38:31,577 - INFO - ✅ 模型加载成功: Tencent/tencent_config (耗时: 0.00s)
+2025-06-09 16:38:31,694 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 16:38:32,090 - INFO - Tencent task created | TaskId: 12348977763
+2025-06-09 16:38:34,330 - INFO - 测试结果: 嗯。
+...
+2025-06-09 16:38:43,747 - INFO - 文本填充完成 - 成功匹配并填充 1 处文本
+填充行号: 8
+
+以下 106 个文件未找到匹配的识别结果:
+Voice_TL_Execute_T8_3.wav
+Voice_TL_Start_JingKe_9.wav
+Voice_TL_TianYan_T8_12.wav
+VO_Battle_BossZH1_BaiLingYan_01.wav
+VO_Battle_BossZH1_BaiLingYan_02.wav
+...等共 106 个文件
+2025-06-09 16:42:56,439 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 16:42:56,439 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 16:43:05,921 - INFO - Initializing tencent engine...
+2025-06-09 16:43:05,921 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 16:43:05,921 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 16:43:05,921 - INFO - ✅ 模型加载成功: Tencent/tencent_config (耗时: 0.00s)
+2025-06-09 16:43:06,040 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 16:43:06,397 - INFO - Tencent task created | TaskId: 12349033774
+2025-06-09 16:43:07,483 - INFO - 测试结果: 嗯。
+...
+2025-06-09 16:43:27,181 - ERROR - 从文件填充失败: name 're' is not defined
+2025-06-09 16:43:44,109 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 16:43:44,109 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 16:44:11,451 - ERROR - 填充文本失败: [Errno 13] Permission denied: 'H:/JianyingPro/TESTSTT.xlsx'
+2025-06-09 16:44:16,227 - INFO - 文本填充完成 - 成功匹配并填充 1 处文本
+填充行号: 8
+
+以下 106 个文件未找到匹配的识别结果:
+Voice_TL_Execute_T8_3.wav
+Voice_TL_Start_JingKe_9.wav
+Voice_TL_TianYan_T8_12.wav
+VO_Battle_BossZH1_BaiLingYan_01.wav
+VO_Battle_BossZH1_BaiLingYan_02.wav
+...等共 106 个文件
+2025-06-09 16:50:04,055 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 16:50:04,055 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 16:50:24,921 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 16:50:31,739 - INFO - Initializing tencent engine...
+2025-06-09 16:50:31,739 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 16:50:31,740 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 16:50:31,740 - INFO - ✅ 模型加载成功: Tencent/tencent_config (耗时: 0.00s)
+2025-06-09 16:50:31,854 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 16:50:32,253 - INFO - Tencent task created | TaskId: 12349120999
+2025-06-09 16:50:34,505 - INFO - 测试结果: ...
+2025-06-09 16:50:38,765 - INFO - 准备处理 16 个文件...
+2025-06-09 16:50:40,106 - INFO - Tencent task created | TaskId: 12349122636
+2025-06-09 16:50:45,571 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 16:50:45,935 - INFO - Tencent task created | TaskId: 12349123922
+2025-06-09 16:50:48,153 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 16:50:48,499 - INFO - Tencent task created | TaskId: 12349124522
+2025-06-09 16:50:50,725 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 16:50:51,112 - INFO - Tencent task created | TaskId: 12349125029
+2025-06-09 16:50:52,271 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 16:50:52,693 - INFO - Tencent task created | TaskId: 12349125415
+2025-06-09 16:50:54,924 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 16:50:55,273 - INFO - Tencent task created | TaskId: 12349125828
+2025-06-09 16:50:56,417 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 16:50:56,754 - INFO - Tencent task created | TaskId: 12349126085
+2025-06-09 16:51:04,359 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 16:51:04,797 - INFO - Tencent task created | TaskId: 12349127837
+2025-06-09 16:51:17,819 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 16:51:18,395 - INFO - Tencent task created | TaskId: 12349130891
+2025-06-09 16:51:23,882 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 16:51:24,350 - INFO - Tencent task created | TaskId: 12349132139
+2025-06-09 16:51:32,005 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 16:51:32,470 - INFO - Tencent task created | TaskId: 12349133633
+2025-06-09 16:51:33,630 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 16:51:33,996 - INFO - Tencent task created | TaskId: 12349133989
+2025-06-09 16:51:36,227 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 16:51:36,685 - INFO - Tencent task created | TaskId: 12349134442
+2025-06-09 16:51:37,829 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 16:51:38,133 - INFO - Tencent task created | TaskId: 12349134677
+2025-06-09 16:51:43,575 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 16:51:43,913 - INFO - Tencent task created | TaskId: 12349135765
+2025-06-09 16:51:48,282 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 16:51:48,590 - INFO - Tencent task created | TaskId: 12349136612
+2025-06-09 16:51:50,813 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 16:52:11,289 - INFO - 报告已导出: C:/Users/ziyanglliu/PycharmProjects/PythonProject5/recognition_logs/20250609_162753_Tencent_tencent_config_VO_CaiLian_CS1_008_BaiLingYan_16.txt
+2025-06-09 16:54:28,839 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 16:54:28,839 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 16:57:01,563 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 16:57:01,564 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 16:59:27,833 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 16:59:27,833 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 17:02:16,402 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 17:02:16,402 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 17:03:24,360 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 17:03:24,360 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 17:03:43,560 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 17:03:48,036 - INFO - Initializing tencent engine...
+2025-06-09 17:03:48,036 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 17:03:48,036 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 17:03:48,036 - INFO - ✅ 模型加载成功: Tencent/tencent_config (耗时: 0.00s)
+2025-06-09 17:03:48,150 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 17:03:48,870 - INFO - Tencent task created | TaskId: 12349292854
+2025-06-09 17:03:58,778 - INFO - 测试结果: 嗯。
+...
+2025-06-09 17:04:03,626 - INFO - 准备处理 16 个文件...
+2025-06-09 17:04:04,848 - INFO - Tencent task created | TaskId: 12349296099
+2025-06-09 17:04:07,207 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 17:04:07,769 - INFO - Tencent task created | TaskId: 12349296744
+2025-06-09 17:04:10,023 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 17:04:10,350 - INFO - Tencent task created | TaskId: 12349297317
+2025-06-09 17:04:11,654 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 17:04:12,037 - INFO - Tencent task created | TaskId: 12349297671
+2025-06-09 17:04:14,190 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 17:04:14,974 - INFO - Tencent task created | TaskId: 12349298322
+2025-06-09 17:04:26,416 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 17:04:26,949 - INFO - Tencent task created | TaskId: 12349300828
+2025-06-09 17:04:28,139 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 17:04:28,635 - INFO - Tencent task created | TaskId: 12349301215
+2025-06-09 17:04:30,990 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 17:04:31,540 - INFO - Tencent task created | TaskId: 12349301776
+2025-06-09 17:04:42,489 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 17:04:43,219 - INFO - Tencent task created | TaskId: 12349303947
+2025-06-09 17:04:44,499 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 17:04:45,271 - INFO - Tencent task created | TaskId: 12349304366
+2025-06-09 17:04:46,468 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 17:04:46,800 - INFO - Tencent task created | TaskId: 12349304664
+2025-06-09 17:04:49,214 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 17:04:49,923 - INFO - Tencent task created | TaskId: 12349305261
+2025-06-09 17:04:52,166 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 17:04:52,759 - INFO - Tencent task created | TaskId: 12349305796
+2025-06-09 17:05:06,958 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 17:05:07,190 - INFO - Tencent task created | TaskId: 12349309003
+2025-06-09 17:05:09,342 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 17:05:09,928 - INFO - Tencent task created | TaskId: 12349309480
+2025-06-09 17:05:11,226 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 17:05:11,825 - INFO - Tencent task created | TaskId: 12349309858
+2025-06-09 17:05:15,241 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 17:05:25,512 - INFO - 文本填充完成 - 成功匹配并填充 16 处文本
+填充行号: 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+
+以下 91 个文件未找到匹配的识别结果:
+Voice_TL_Execute_T8_3.wav
+Voice_TL_Start_JingKe_9.wav
+Voice_TL_TianYan_T8_12.wav
+VO_Battle_BossZH1_BaiLingYan_01.wav
+VO_Battle_BossZH1_BaiLingYan_02.wav
+...等共 91 个文件
+2025-06-09 17:05:32,709 - INFO - 工作表 'CN' 文本比对完成，发现 0 处差异
+2025-06-09 17:05:41,275 - INFO - 工作表 'CN' 文本比对完成，发现 0 处差异
+2025-06-09 17:10:26,025 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 17:10:26,025 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 17:10:39,693 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 17:10:45,504 - INFO - Initializing tencent engine...
+2025-06-09 17:10:45,504 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 17:10:45,506 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 17:10:45,506 - INFO - ✅ 模型加载成功: Tencent/tencent_config (耗时: 0.00s)
+2025-06-09 17:10:45,624 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 17:10:46,391 - INFO - Tencent task created | TaskId: 12349375972
+2025-06-09 17:10:47,496 - INFO - 测试结果: 嗯。
+...
+2025-06-09 17:10:48,108 - INFO - 准备处理 16 个文件...
+2025-06-09 17:10:49,573 - INFO - Tencent task created | TaskId: 12349376666
+2025-06-09 17:10:51,824 - INFO - ✅ [1/16] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 17:10:52,270 - INFO - Tencent task created | TaskId: 12349377324
+2025-06-09 17:10:55,670 - INFO - ✅ [2/16] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 17:10:56,019 - INFO - Tencent task created | TaskId: 12349378065
+2025-06-09 17:10:57,212 - INFO - ✅ [3/16] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 17:10:57,683 - INFO - Tencent task created | TaskId: 12349378411
+2025-06-09 17:10:58,788 - INFO - ✅ [4/16] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 17:10:59,201 - INFO - Tencent task created | TaskId: 12349378751
+2025-06-09 17:11:09,296 - INFO - ✅ [5/16] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 17:11:09,854 - INFO - Tencent task created | TaskId: 12349381120
+2025-06-09 17:11:12,117 - INFO - ✅ [6/16] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 17:11:12,714 - INFO - Tencent task created | TaskId: 12349381624
+2025-06-09 17:11:23,827 - INFO - ✅ [7/16] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 17:11:24,578 - INFO - Tencent task created | TaskId: 12349383952
+2025-06-09 17:11:25,861 - INFO - ✅ [8/16] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 17:11:26,259 - INFO - Tencent task created | TaskId: 12349384242
+2025-06-09 17:11:32,970 - INFO - ✅ [9/16] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 17:11:33,421 - INFO - Tencent task created | TaskId: 12349385613
+2025-06-09 17:11:35,793 - INFO - ✅ [10/16] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 17:11:36,337 - INFO - Tencent task created | TaskId: 12349386083
+2025-06-09 17:11:45,258 - INFO - ✅ [11/16] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 17:11:45,901 - INFO - Tencent task created | TaskId: 12349387678
+2025-06-09 17:11:50,505 - INFO - ✅ [12/16] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 17:11:50,763 - INFO - Tencent task created | TaskId: 12349388517
+2025-06-09 17:11:59,800 - INFO - ✅ [13/16] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 17:12:00,073 - INFO - Tencent task created | TaskId: 12349389962
+2025-06-09 17:12:01,291 - INFO - ✅ [14/16] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 17:12:02,032 - INFO - Tencent task created | TaskId: 12349390408
+2025-06-09 17:12:04,377 - INFO - ✅ [15/16] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 17:12:04,615 - INFO - Tencent task created | TaskId: 12349391128
+2025-06-09 17:12:05,723 - INFO - ✅ [16/16] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 17:17:52,226 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 17:17:52,226 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 17:21:31,734 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 17:21:31,734 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 17:21:31,799 - ERROR - 程序启动失败: 'AudioToTextTool' object has no attribute 'tk'
+Traceback (most recent call last):
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 1704, in <module>
+    app = AudioToTextTool(root)
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 117, in __init__
+    self.create_widgets()
+  File "C:\Users\ziyanglliu\PycharmProjects\PythonProject5\main.py", line 603, in create_widgets
+    self.log_control = ttk.Frame(self)
+  File "C:\Users\ziyanglliu\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 735, in __init__
+    Widget.__init__(self, master, "ttk::frame", kw)
+  File "C:\Users\ziyanglliu\AppData\Local\Programs\Python\Python310\lib\tkinter\ttk.py", line 552, in __init__
+    tkinter.Widget.__init__(self, master, widgetname, kw=kw)
+  File "C:\Users\ziyanglliu\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 2595, in __init__
+    self._setup(master, cnf)
+  File "C:\Users\ziyanglliu\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 2564, in _setup
+    self.tk = master.tk
+AttributeError: 'AudioToTextTool' object has no attribute 'tk'
+2025-06-09 17:22:54,617 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 17:22:54,617 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 17:24:52,438 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 17:24:52,438 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 18:25:23,473 - INFO - 模型扫描完成，共找到 1 个模型 (1 个有效)
+2025-06-09 18:25:23,473 - INFO - 已设置默认模型: Tencent/tencent_config (未加载)
+2025-06-09 18:54:04,525 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 18:54:04,525 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 18:54:22,820 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 18:54:22,821 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 18:54:30,779 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 18:54:36,739 - INFO - Initializing tencent engine...
+2025-06-09 18:54:36,739 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 18:54:36,740 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 18:54:36,740 - INFO - ✅ 模型加载成功: Tencent/tencent_config (耗时: 0.00s)
+2025-06-09 18:54:36,855 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 18:54:37,813 - INFO - Tencent task created | TaskId: 12350403134
+2025-06-09 18:54:39,002 - INFO - 测试结果: 嗯。
+...
+2025-06-09 18:54:43,983 - INFO - 准备处理 2 个文件...
+2025-06-09 18:54:45,394 - INFO - Tencent task created | TaskId: 12350404136
+2025-06-09 18:54:47,733 - INFO - ✅ [1/2] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 18:54:48,109 - INFO - Tencent task created | TaskId: 12350404429
+2025-06-09 18:54:50,428 - INFO - ✅ [2/2] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 18:58:11,736 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 18:58:11,736 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-09 18:59:02,333 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-09 18:59:04,412 - INFO - Initializing tencent engine...
+2025-06-09 18:59:04,413 - INFO - Initializing Tencent Cloud engine...
+2025-06-09 18:59:04,413 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-09 18:59:04,413 - INFO - ✅ 模型加载成功: Tencent/tencent_config (耗时: 0.00s)
+2025-06-09 18:59:04,529 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-09 18:59:05,291 - INFO - Tencent task created | TaskId: 12350436764
+2025-06-09 18:59:06,591 - INFO - 测试结果: ...
+2025-06-09 18:59:12,004 - INFO - 准备处理 3 个文件...
+2025-06-09 18:59:13,315 - INFO - Tencent task created | TaskId: 12350437689
+2025-06-09 18:59:14,528 - INFO - ✅ [1/3] Voice_TL_Execute_T8_3.wav 转录成功
+2025-06-09 18:59:14,973 - INFO - Tencent task created | TaskId: 12350437871
+2025-06-09 18:59:22,924 - INFO - ✅ [2/3] Voice_TL_Start_JingKe_9.wav 转录成功
+2025-06-09 18:59:23,443 - INFO - Tencent task created | TaskId: 12350438859
+2025-06-09 18:59:24,541 - INFO - ✅ [3/3] Voice_TL_TianYan_T8_12.wav 转录成功
+2025-06-09 18:59:28,727 - INFO - 报告已导出: C:/Users/ziyanglliu/PycharmProjects/PythonProject5/recognition_logs/20250609_185926_Tencent_tencent_config_Voice_TL_Execute_T8_3_3.txt
+2025-06-09 19:21:46,290 - INFO - 准备处理 104 个文件...
+2025-06-09 19:21:47,983 - INFO - Tencent task created | TaskId: 12350619182
+2025-06-09 19:21:49,272 - INFO - ✅ [1/104] VO_Battle_BossZH1_BaiLingYan_01.wav 转录成功
+2025-06-09 19:21:49,887 - INFO - Tencent task created | TaskId: 12350619363
+2025-06-09 19:21:51,100 - INFO - ✅ [2/104] VO_Battle_BossZH1_BaiLingYan_02.wav 转录成功
+2025-06-09 19:21:51,581 - INFO - Tencent task created | TaskId: 12350619538
+2025-06-09 19:21:52,678 - INFO - ✅ [3/104] VO_Battle_BossZH1_BaiLingYan_03.wav 转录成功
+2025-06-09 19:21:53,301 - INFO - Tencent task created | TaskId: 12350619680
+2025-06-09 19:21:54,402 - INFO - ✅ [4/104] VO_CaiLian_A_013_BaiLingYan.wav 转录成功
+2025-06-09 19:21:54,721 - INFO - Tencent task created | TaskId: 12350619838
+2025-06-09 19:21:55,922 - INFO - ✅ [5/104] VO_CaiLian_CS1_001_BaiLingYan.wav 转录成功
+2025-06-09 19:21:56,284 - INFO - Tencent task created | TaskId: 12350619981
+2025-06-09 19:21:57,381 - INFO - ✅ [6/104] VO_CaiLian_CS1_002_BaiLingYan.wav 转录成功
+2025-06-09 19:21:57,691 - INFO - Tencent task created | TaskId: 12350620113
+2025-06-09 19:21:58,782 - INFO - ✅ [7/104] VO_CaiLian_CS1_004_BaiLingYan.wav 转录成功
+2025-06-09 19:21:59,410 - INFO - Tencent task created | TaskId: 12350620284
+2025-06-09 19:22:00,713 - INFO - ✅ [8/104] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-09 19:22:00,993 - INFO - Tencent task created | TaskId: 12350620502
+2025-06-09 19:22:02,177 - INFO - ✅ [9/104] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-09 19:22:02,799 - INFO - Tencent task created | TaskId: 12350620804
+2025-06-09 19:22:04,099 - INFO - ✅ [10/104] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-09 19:22:04,674 - INFO - Tencent task created | TaskId: 12350621104
+2025-06-09 19:22:05,994 - INFO - ✅ [11/104] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-09 19:22:06,543 - INFO - Tencent task created | TaskId: 12350621356
+2025-06-09 19:22:07,746 - INFO - ✅ [12/104] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-09 19:22:08,527 - INFO - Tencent task created | TaskId: 12350621589
+2025-06-09 19:22:09,618 - INFO - ✅ [13/104] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-09 19:22:10,100 - INFO - Tencent task created | TaskId: 12350621792
+2025-06-09 19:22:11,200 - INFO - ✅ [14/104] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-09 19:22:11,922 - INFO - Tencent task created | TaskId: 12350621971
+2025-06-09 19:22:13,218 - INFO - ✅ [15/104] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-09 19:22:13,964 - INFO - Tencent task created | TaskId: 12350622189
+2025-06-09 19:22:15,159 - INFO - ✅ [16/104] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-09 19:22:15,738 - INFO - Tencent task created | TaskId: 12350622371
+2025-06-09 19:22:17,033 - INFO - ✅ [17/104] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-09 19:22:17,524 - INFO - Tencent task created | TaskId: 12350622554
+2025-06-09 19:22:18,846 - INFO - ✅ [18/104] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-09 19:22:19,444 - INFO - Tencent task created | TaskId: 12350622773
+2025-06-09 19:22:20,786 - INFO - ✅ [19/104] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-09 19:22:21,118 - INFO - Tencent task created | TaskId: 12350622975
+2025-06-09 19:22:22,215 - INFO - ✅ [20/104] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-09 19:22:22,512 - INFO - Tencent task created | TaskId: 12350623126
+2025-06-09 19:22:23,724 - INFO - ✅ [21/104] VO_CaiLian_CS1_024_BaiLingYan.wav 转录成功
+2025-06-09 19:22:24,069 - INFO - Tencent task created | TaskId: 12350623291
+2025-06-09 19:22:25,163 - INFO - ✅ [22/104] VO_CaiLian_CS1_026_BaiLingYan.wav 转录成功
+2025-06-09 19:22:25,438 - INFO - Tencent task created | TaskId: 12350623451
+2025-06-09 19:22:26,724 - INFO - ✅ [23/104] VO_CaiLian_CS1_027_BaiLingYan.wav 转录成功
+2025-06-09 19:22:26,986 - INFO - Tencent task created | TaskId: 12350623626
+2025-06-09 19:22:28,183 - INFO - ✅ [24/104] VO_Pic_YuHuoHongLian_A_001_BaiLingYan.wav 转录成功
+2025-06-09 19:22:28,437 - INFO - Tencent task created | TaskId: 12350623781
+2025-06-09 19:22:29,534 - INFO - ✅ [25/104] VO_Pic_YuHuoHongLian_P_001_BaiLingYan.wav 转录成功
+2025-06-09 19:22:30,053 - INFO - Tencent task created | TaskId: 12350623961
+2025-06-09 19:22:32,314 - INFO - ✅ [26/104] VO_YuBi_Black_A_001_BaiLingYan.wav 转录成功
+2025-06-09 19:22:32,625 - INFO - Tencent task created | TaskId: 12350624280
+2025-06-09 19:22:34,998 - INFO - ✅ [27/104] VO_YuBi_Black_A_002_BaiLingYan.wav 转录成功
+2025-06-09 19:22:35,497 - INFO - Tencent task created | TaskId: 12350624568
+2025-06-09 19:22:36,781 - INFO - ✅ [28/104] VO_YuBi_Black_A_003_BaiLingYan.wav 转录成功
+2025-06-09 19:22:37,179 - INFO - Tencent task created | TaskId: 12350624742
+2025-06-09 19:22:38,387 - INFO - ✅ [29/104] VO_YuBi_Black_A_004_BaiLingYan.wav 转录成功
+2025-06-09 19:22:38,631 - INFO - Tencent task created | TaskId: 12350624901
+2025-06-09 19:22:39,811 - INFO - ✅ [30/104] VO_YuBi_Black_A_015_BaiLingYan.wav 转录成功
+2025-06-09 19:22:40,533 - INFO - Tencent task created | TaskId: 12350625115
+2025-06-09 19:22:42,893 - INFO - ✅ [31/104] VO_YuBi_Black_A_018_BaiLingYan.wav 转录成功
+2025-06-09 19:22:43,375 - INFO - Tencent task created | TaskId: 12350625430
+2025-06-09 19:22:44,584 - INFO - ✅ [32/104] VO_YuBi_Black_A_019_BaiLingYan.wav 转录成功
+2025-06-09 19:22:45,292 - INFO - Tencent task created | TaskId: 12350625615
+2025-06-09 19:22:47,546 - INFO - ✅ [33/104] VO_YuBi_Black_A_020_BaiLingYan.wav 转录成功
+2025-06-09 19:22:47,887 - INFO - Tencent task created | TaskId: 12350625887
+2025-06-09 19:22:50,259 - INFO - ✅ [34/104] VO_YuBi_Black_A_020_BaiLingYan_01.wav 转录成功
+2025-06-09 19:22:50,933 - INFO - Tencent task created | TaskId: 12350626237
+2025-06-09 19:22:53,284 - INFO - ✅ [35/104] VO_YuBi_Black_A_020_BaiLingYan_02.wav 转录成功
+2025-06-09 19:22:53,783 - INFO - Tencent task created | TaskId: 12350626531
+2025-06-09 19:22:55,063 - INFO - ✅ [36/104] VO_YuBi_Black_A_021_BaiLingYan.wav 转录成功
+2025-06-09 19:22:55,456 - INFO - Tencent task created | TaskId: 12350626688
+2025-06-09 19:22:56,560 - INFO - ✅ [37/104] VO_YuBi_Black_A_022_BaiLingYan.wav 转录成功
+2025-06-09 19:22:57,166 - INFO - Tencent task created | TaskId: 12350626818
+2025-06-09 19:22:58,525 - INFO - ✅ [38/104] VO_YuBi_Black_A_023_BaiLingYan.wav 转录成功
+2025-06-09 19:22:59,170 - INFO - Tencent task created | TaskId: 12350627031
+2025-06-09 19:23:00,262 - INFO - ✅ [39/104] VO_YuBi_Black_A_024_BaiLingYan.wav 转录成功
+2025-06-09 19:23:00,721 - INFO - Tencent task created | TaskId: 12350627215
+2025-06-09 19:23:02,959 - INFO - ✅ [40/104] VO_YuBi_Black_A_025_BaiLingYan.wav 转录成功
+2025-06-09 19:23:03,454 - INFO - Tencent task created | TaskId: 12350627578
+2025-06-09 19:23:04,745 - INFO - ✅ [41/104] VO_YuBi_Black_A_027_BaiLingYan.wav 转录成功
+2025-06-09 19:23:05,206 - INFO - Tencent task created | TaskId: 12350627772
+2025-06-09 19:23:06,521 - INFO - ✅ [42/104] VO_YuBi_Black_A_028_BaiLingYan.wav 转录成功
+2025-06-09 19:23:06,813 - INFO - Tencent task created | TaskId: 12350627976
+2025-06-09 19:23:08,969 - INFO - ✅ [43/104] VO_YuBi_Black_A_032_BaiLingYan.wav 转录成功
+2025-06-09 19:23:09,488 - INFO - Tencent task created | TaskId: 12350628295
+2025-06-09 19:23:10,787 - INFO - ✅ [44/104] VO_YuBi_Black_A_035_BaiLingYan.wav 转录成功
+2025-06-09 19:23:11,492 - INFO - Tencent task created | TaskId: 12350628492
+2025-06-09 19:23:13,837 - INFO - ✅ [45/104] VO_YuBi_Black_A_037_BaiLingYan.wav 转录成功
+2025-06-09 19:23:15,172 - INFO - Tencent task created | TaskId: 12350628878
+2025-06-09 19:23:16,473 - INFO - ✅ [46/104] VO_YuBi_Black_A_040_BaiLingYan.wav 转录成功
+2025-06-09 19:23:17,050 - INFO - Tencent task created | TaskId: 12350629076
+2025-06-09 19:23:18,244 - INFO - ✅ [47/104] VO_YuBi_Black_A_043_BaiLingYan.wav 转录成功
+2025-06-09 19:23:18,550 - INFO - Tencent task created | TaskId: 12350629278
+2025-06-09 19:23:19,743 - INFO - ✅ [48/104] VO_YuBi_Black_A_045_BaiLingYan.wav 转录成功
+2025-06-09 19:23:20,366 - INFO - Tencent task created | TaskId: 12350629462
+2025-06-09 19:23:21,671 - INFO - ✅ [49/104] VO_YuBi_Black_A_046_BaiLingYan.wav 转录成功
+2025-06-09 19:23:22,033 - INFO - Tencent task created | TaskId: 12350629653
+2025-06-09 19:23:23,124 - INFO - ✅ [50/104] VO_YuBi_Black_A_047_BaiLingYan.wav 转录成功
+2025-06-09 19:23:23,732 - INFO - Tencent task created | TaskId: 12350629842
+2025-06-09 19:23:24,948 - INFO - ✅ [51/104] VO_YuBi_Black_B_001_BaiLingYan.wav 转录成功
+2025-06-09 19:23:25,518 - INFO - Tencent task created | TaskId: 12350630040
+2025-06-09 19:23:26,614 - INFO - ✅ [52/104] VO_YuBi_Black_B_002_BaiLingYan.wav 转录成功
+2025-06-09 19:23:27,215 - INFO - Tencent task created | TaskId: 12350630221
+2025-06-09 19:23:28,507 - INFO - ✅ [53/104] VO_YuBi_Black_B_003_BaiLingYan.wav 转录成功
+2025-06-09 19:23:28,851 - INFO - Tencent task created | TaskId: 12350630435
+2025-06-09 19:23:30,047 - INFO - ✅ [54/104] VO_YuBi_Black_B_004_BaiLingYan.wav 转录成功
+2025-06-09 19:23:30,394 - INFO - Tencent task created | TaskId: 12350630642
+2025-06-09 19:23:32,769 - INFO - ✅ [55/104] VO_YuBi_Black_B_005_BaiLingYan.wav 转录成功
+2025-06-09 19:23:33,377 - INFO - Tencent task created | TaskId: 12350630979
+2025-06-09 19:23:34,602 - INFO - ✅ [56/104] VO_YuBi_Black_B_006_BaiLingYan.wav 转录成功
+2025-06-09 19:23:35,063 - INFO - Tencent task created | TaskId: 12350631146
+2025-06-09 19:23:36,166 - INFO - ✅ [57/104] VO_YuBi_Black_B_007_BaiLingYan.wav 转录成功
+2025-06-09 19:23:36,912 - INFO - Tencent task created | TaskId: 12350631378
+2025-06-09 19:23:38,197 - INFO - ✅ [58/104] VO_YuBi_Black_B_008_BaiLingYan.wav 转录成功
+2025-06-09 19:23:38,770 - INFO - Tencent task created | TaskId: 12350631635
+2025-06-09 19:23:40,045 - INFO - ✅ [59/104] VO_YuBi_Black_B_008_BaiLingYan_01.wav 转录成功
+2025-06-09 19:23:40,341 - INFO - Tencent task created | TaskId: 12350631825
+2025-06-09 19:23:42,599 - INFO - ✅ [60/104] VO_YuBi_Black_B_008_BaiLingYan_02.wav 转录成功
+2025-06-09 19:23:43,842 - INFO - Tencent task created | TaskId: 12350632123
+2025-06-09 19:23:44,940 - INFO - ✅ [61/104] VO_YuBi_Black_B_009_BaiLingYan.wav 转录成功
+2025-06-09 19:23:45,381 - INFO - Tencent task created | TaskId: 12350632373
+2025-06-09 19:23:47,544 - INFO - ✅ [62/104] VO_YuBi_Black_B_010_BaiLingYan.wav 转录成功
+2025-06-09 19:23:48,148 - INFO - Tencent task created | TaskId: 12350632636
+2025-06-09 19:23:49,243 - INFO - ✅ [63/104] VO_YuBi_Black_B_012_BaiLingYan.wav 转录成功
+2025-06-09 19:23:49,851 - INFO - Tencent task created | TaskId: 12350632825
+2025-06-09 19:23:52,193 - INFO - ✅ [64/104] VO_YuBi_Black_B_013_BaiLingYan.wav 转录成功
+2025-06-09 19:23:52,502 - INFO - Tencent task created | TaskId: 12350633137
+2025-06-09 19:23:53,691 - INFO - ✅ [65/104] VO_YuBi_Black_B_014_BaiLingYan.wav 转录成功
+2025-06-09 19:23:54,023 - INFO - Tencent task created | TaskId: 12350633292
+2025-06-09 19:23:56,451 - INFO - ✅ [66/104] VO_YuHuoHongLian_A_001_BaiLingYan.wav 转录成功
+2025-06-09 19:23:56,849 - INFO - Tencent task created | TaskId: 12350633606
+2025-06-09 19:23:59,098 - INFO - ✅ [67/104] VO_YuHuoHongLian_A_002_BaiLingYan.wav 转录成功
+2025-06-09 19:23:59,739 - INFO - Tencent task created | TaskId: 12350633880
+2025-06-09 19:24:00,947 - INFO - ✅ [68/104] VO_YuHuoHongLian_A_003_BaiLingYan.wav 转录成功
+2025-06-09 19:24:01,649 - INFO - Tencent task created | TaskId: 12350634154
+2025-06-09 19:24:02,831 - INFO - ✅ [69/104] VO_YuHuoHongLian_A_005_BaiLingYan.wav 转录成功
+2025-06-09 19:24:03,409 - INFO - Tencent task created | TaskId: 12350634445
+2025-06-09 19:24:04,703 - INFO - ✅ [70/104] VO_YuHuoHongLian_A_016_BaiLingYan.wav 转录成功
+2025-06-09 19:24:05,330 - INFO - Tencent task created | TaskId: 12350634681
+2025-06-09 19:24:07,659 - WARNING - ⚠️ [71/104] VO_YuHuoHongLian_A_020_BaiLingYan.wav 无转录结果
+2025-06-09 19:24:07,947 - INFO - Tencent task created | TaskId: 12350635012
+2025-06-09 19:24:09,216 - INFO - ✅ [72/104] VO_YuHuoHongLian_B_011_BaiLingYan.wav 转录成功
+2025-06-09 19:24:09,734 - INFO - Tencent task created | TaskId: 12350635211
+2025-06-09 19:24:10,836 - INFO - ✅ [73/104] VO_YuHuoHongLian_B_012_BaiLingYan.wav 转录成功
+2025-06-09 19:24:11,502 - INFO - Tencent task created | TaskId: 12350635416
+2025-06-09 19:24:12,798 - INFO - ✅ [74/104] VO_YuHuoHongLian_B_013_BaiLingYan.wav 转录成功
+2025-06-09 19:24:13,027 - INFO - Tencent task created | TaskId: 12350635613
+2025-06-09 19:24:14,120 - INFO - ✅ [75/104] VO_YuHuoHongLian_B_014_BaiLingYan.wav 转录成功
+2025-06-09 19:24:14,756 - INFO - Tencent task created | TaskId: 12350635803
+2025-06-09 19:24:15,967 - INFO - ✅ [76/104] VO_YuHuoHongLian_B_015_BaiLingYan.wav 转录成功
+2025-06-09 19:24:16,534 - INFO - Tencent task created | TaskId: 12350636006
+2025-06-09 19:24:17,838 - INFO - ✅ [77/104] VO_YuHuoHongLian_B_016_BaiLingYan.wav 转录成功
+2025-06-09 19:24:18,520 - INFO - Tencent task created | TaskId: 12350636243
+2025-06-09 19:24:19,818 - INFO - ✅ [78/104] VO_YuHuoHongLian_B_018_BaiLingYan.wav 转录成功
+2025-06-09 19:24:20,187 - INFO - Tencent task created | TaskId: 12350636433
+2025-06-09 19:24:21,373 - INFO - ✅ [79/104] VO_YuHuoHongLian_B_023_BaiLingYan.wav 转录成功
+2025-06-09 19:24:22,103 - INFO - Tencent task created | TaskId: 12350636631
+2025-06-09 19:24:23,288 - INFO - ✅ [80/104] VO_YuHuoHongLian_B_030_BaiLingYan.wav 转录成功
+2025-06-09 19:24:24,069 - INFO - Tencent task created | TaskId: 12350636843
+2025-06-09 19:24:25,253 - WARNING - ⚠️ [81/104] VO_YuHuoHongLian_B_037_BaiLingYan.wav 无转录结果
+2025-06-09 19:24:25,812 - INFO - Tencent task created | TaskId: 12350637030
+2025-06-09 19:24:27,004 - INFO - ✅ [82/104] VO_YuHuoHongLian_B_038_BaiLingYan.wav 转录成功
+2025-06-09 19:24:27,338 - INFO - Tencent task created | TaskId: 12350637200
+2025-06-09 19:24:29,588 - INFO - ✅ [83/104] VO_YuHuoHongLian_B_039_BaiLingYan.wav 转录成功
+2025-06-09 19:24:29,979 - INFO - Tencent task created | TaskId: 12350637523
+2025-06-09 19:24:31,173 - INFO - ✅ [84/104] VO_YuHuoHongLian_B_040_BaiLingYan.wav 转录成功
+2025-06-09 19:24:31,679 - INFO - Tencent task created | TaskId: 12350637747
+2025-06-09 19:24:32,898 - INFO - ✅ [85/104] VO_YuHuoHongLian_B_040_BaiLingYan_02.wav 转录成功
+2025-06-09 19:24:33,561 - INFO - Tencent task created | TaskId: 12350637966
+2025-06-09 19:24:34,890 - INFO - ✅ [86/104] VO_YuHuoHongLian_B_053_BaiLingYan.wav 转录成功
+2025-06-09 19:24:35,138 - INFO - Tencent task created | TaskId: 12350638176
+2025-06-09 19:24:36,348 - INFO - ✅ [87/104] VO_YuHuoHongLian_C_015_BaiLingYan.wav 转录成功
+2025-06-09 19:24:36,855 - INFO - Tencent task created | TaskId: 12350638360
+2025-06-09 19:24:39,200 - INFO - ✅ [88/104] VO_YuHuoHongLian_C_015_BaiLingYan_01.wav 转录成功
+2025-06-09 19:24:39,446 - INFO - Tencent task created | TaskId: 12350638694
+2025-06-09 19:24:40,542 - INFO - ✅ [89/104] VO_YuHuoHongLian_C_015_BaiLingYan_02.wav 转录成功
+2025-06-09 19:24:41,241 - INFO - Tencent task created | TaskId: 12350638883
+2025-06-09 19:24:42,541 - INFO - ✅ [90/104] VO_YuHuoHongLian_C_016_BaiLingYan.wav 转录成功
+2025-06-09 19:24:42,872 - INFO - Tencent task created | TaskId: 12350639074
+2025-06-09 19:24:44,078 - INFO - ✅ [91/104] VO_YuHuoHongLian_C_018_BaiLingYan.wav 转录成功
+2025-06-09 19:24:44,457 - INFO - Tencent task created | TaskId: 12350639234
+2025-06-09 19:24:46,827 - INFO - ✅ [92/104] VO_YuHuoHongLian_C_020_BaiLingYan.wav 转录成功
+2025-06-09 19:24:47,171 - INFO - Tencent task created | TaskId: 12350639509
+2025-06-09 19:24:48,270 - INFO - ✅ [93/104] VO_YuHuoHongLian_C_022_BaiLingYan.wav 转录成功
+2025-06-09 19:24:49,062 - INFO - Tencent task created | TaskId: 12350639730
+2025-06-09 19:24:51,216 - INFO - ✅ [94/104] VO_YuHuoHongLian_C_024_BaiLingYan.wav 转录成功
+2025-06-09 19:24:51,596 - INFO - Tencent task created | TaskId: 12350640043
+2025-06-09 19:24:52,797 - INFO - ✅ [95/104] VO_ZongMenBeiZhan_007_BaiLingYan.wav 转录成功
+2025-06-09 19:24:53,046 - INFO - Tencent task created | TaskId: 12350640169
+2025-06-09 19:24:54,252 - INFO - ✅ [96/104] VO_ZongMenBeiZhan_008_BaiLingYan.wav 转录成功
+2025-06-09 19:24:54,627 - INFO - Tencent task created | TaskId: 12350640333
+2025-06-09 19:24:58,011 - INFO - ✅ [97/104] VO_ZongMenBeiZhan_010_BaiLingYan.wav 转录成功
+2025-06-09 19:24:58,434 - INFO - Tencent task created | TaskId: 12350640730
+2025-06-09 19:25:00,897 - INFO - ✅ [98/104] VO_ZongMenBeiZhan_011_BaiLingYan.wav 转录成功
+2025-06-09 19:25:01,562 - INFO - Tencent task created | TaskId: 12350641048
+2025-06-09 19:25:02,753 - INFO - ✅ [99/104] VO_ZongMenBeiZhan_012_BaiLingYan.wav 转录成功
+2025-06-09 19:25:03,461 - INFO - Tencent task created | TaskId: 12350641356
+2025-06-09 19:25:04,560 - INFO - ✅ [100/104] VO_ZongMenBeiZhan_013_BaiLingYan.wav 转录成功
+2025-06-09 19:25:04,864 - INFO - Tencent task created | TaskId: 12350641575
+2025-06-09 19:25:06,172 - INFO - ✅ [101/104] VO_ZongMenBeiZhan_014_BaiLingYan.wav 转录成功
+2025-06-09 19:25:06,726 - INFO - Tencent task created | TaskId: 12350641856
+2025-06-09 19:25:07,937 - INFO - ✅ [102/104] VO_ZongMenBeiZhan_015_BaiLingYan.wav 转录成功
+2025-06-09 19:25:08,601 - INFO - Tencent task created | TaskId: 12350642099
+2025-06-09 19:25:09,690 - INFO - ✅ [103/104] VO_ZongMenBeiZhan_016_BaiLingYan.wav 转录成功
+2025-06-09 19:25:10,140 - INFO - Tencent task created | TaskId: 12350642324
+2025-06-09 19:25:11,451 - INFO - ✅ [104/104] VO_ZongMenBeiZhan_017_BaiLingYan.wav 转录成功
+2025-06-09 19:25:19,269 - INFO - 报告已导出: C:/Users/ziyanglliu/PycharmProjects/PythonProject5/recognition_logs/20250609_192516_Tencent_tencent_config_VO_Battle_BossZH1_BaiLingYan_01_102.txt
+2025-06-09 20:36:02,796 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-09 20:36:02,796 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-10 09:41:15,724 - INFO - Initializing tencent engine...
+2025-06-10 09:41:15,724 - INFO - Initializing Tencent Cloud engine...
+2025-06-10 09:41:15,725 - INFO - ✅ Tencent client initialized | Region: ap-shanghai
+2025-06-10 09:41:15,725 - INFO - ✅ 模型加载成功: Tencent/tencent_config (耗时: 0.00s)
+2025-06-10 09:41:15,865 - INFO - 🔊 Testing model | File: test_zh.wav
+2025-06-10 09:41:16,481 - INFO - Tencent task created | TaskId: 12353517184
+2025-06-10 09:41:17,780 - INFO - 测试结果: 嗯。
+...
+2025-06-10 09:41:21,790 - INFO - 找到 123 个音频文件（包含子文件夹）
+2025-06-10 09:41:34,699 - INFO - 准备处理 13 个文件...
+2025-06-10 09:41:36,375 - INFO - Tencent task created | TaskId: 12353519846
+2025-06-10 09:41:37,662 - INFO - ✅ [1/13] VO_CaiLian_CS1_008_BaiLingYan.wav 转录成功
+2025-06-10 09:41:37,929 - INFO - Tencent task created | TaskId: 12353520036
+2025-06-10 09:41:40,352 - INFO - ✅ [2/13] VO_CaiLian_CS1_010_BaiLingYan.wav 转录成功
+2025-06-10 09:41:40,800 - INFO - Tencent task created | TaskId: 12353520430
+2025-06-10 09:41:43,019 - INFO - ✅ [3/13] VO_CaiLian_CS1_011_BaiLingYan.wav 转录成功
+2025-06-10 09:41:43,367 - INFO - Tencent task created | TaskId: 12353520743
+2025-06-10 09:41:44,459 - INFO - ✅ [4/13] VO_CaiLian_CS1_012_BaiLingYan.wav 转录成功
+2025-06-10 09:41:44,882 - INFO - Tencent task created | TaskId: 12353520948
+2025-06-10 09:41:47,101 - INFO - ✅ [5/13] VO_CaiLian_CS1_013_BaiLingYan.wav 转录成功
+2025-06-10 09:41:47,401 - INFO - Tencent task created | TaskId: 12353521243
+2025-06-10 09:41:48,490 - INFO - ✅ [6/13] VO_CaiLian_CS1_014_BaiLingYan.wav 转录成功
+2025-06-10 09:41:49,042 - INFO - Tencent task created | TaskId: 12353521439
+2025-06-10 09:41:51,377 - INFO - ✅ [7/13] VO_CaiLian_CS1_015_BaiLingYan.wav 转录成功
+2025-06-10 09:41:52,131 - INFO - Tencent task created | TaskId: 12353521792
+2025-06-10 09:41:54,363 - INFO - ✅ [8/13] VO_CaiLian_CS1_016_BaiLingYan.wav 转录成功
+2025-06-10 09:41:54,699 - INFO - Tencent task created | TaskId: 12353522118
+2025-06-10 09:41:55,911 - INFO - ✅ [9/13] VO_CaiLian_CS1_017_BaiLingYan.wav 转录成功
+2025-06-10 09:41:56,242 - INFO - Tencent task created | TaskId: 12353522395
+2025-06-10 09:41:57,445 - INFO - ✅ [10/13] VO_CaiLian_CS1_019_BaiLingYan.wav 转录成功
+2025-06-10 09:41:57,782 - INFO - Tencent task created | TaskId: 12353522656
+2025-06-10 09:41:58,875 - INFO - ✅ [11/13] VO_CaiLian_CS1_021_BaiLingYan.wav 转录成功
+2025-06-10 09:41:59,504 - INFO - Tencent task created | TaskId: 12353522956
+2025-06-10 09:42:00,693 - INFO - ✅ [12/13] VO_CaiLian_CS1_022_BaiLingYan.wav 转录成功
+2025-06-10 09:42:01,091 - INFO - Tencent task created | TaskId: 12353523196
+2025-06-10 09:42:02,191 - INFO - ✅ [13/13] VO_CaiLian_CS1_023_BaiLingYan.wav 转录成功
+2025-06-10 09:42:37,980 - INFO - 报告已导出: C:/Users/ziyanglliu/PycharmProjects/PythonProject5/recognition_logs/20250610_094234_Tencent_tencent_config_VO_CaiLian_CS1_008_BaiLingYan_13.txt
+2025-06-10 09:43:03,890 - INFO - 模型扫描完成，共找到 7 个模型 (7 个有效)
+2025-06-10 09:43:03,890 - INFO - 已设置默认模型: CN/vosk-model-cn-0.22 (未加载)
+2025-06-10 09:43:10,087 - INFO - 找到 123 个音频文件（包含子文件夹）
