@@ -109,8 +109,8 @@ if __name__ == "__main__":
 
     # 1. 初始化（替换为您的真实密钥）
     asr = TencentSTT(
-        secret_id="AKIDHQN6f1PgwCJWfkfx9EKuT0RktvqlgU6W",
-        secret_key="KSN5oPo02475ztnoheacoridXItMjmiR"
+        secret_id="",
+        secret_key=""
     )
 
     # 2. 生成测试音频（1秒静音）
